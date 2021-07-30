@@ -4,7 +4,7 @@ Conventions and Abbreviations
 
 	All the forms, both phonetic and phonemic, are expressed in the
 International Phonetic Alpabet (IPA). In addition, to represent two apical
-vowels of Chinese, dental and retroflex, the notations [ɿ] and [ʅ ] are
+vowels of Chinese, dental and retroflex, the notations [ɿ] and [ʅ] are
 added in accordance with general practice in Chinese phonetics. Karlgren's
 Ancient Chinese (=our Middle Chinese) forms are also given in IPA.
 	Transliterations of Korean alphabets are in accordance with my own
