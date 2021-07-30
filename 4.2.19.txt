@@ -1,0 +1,36 @@
+====206
+
+4.2.19	-ɨw [ɨw]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+p`ɨw	-	剖	-	-
+bɨw	裒抔	-	-	-
+mɨw	謀牟矛眸	母拇畝某牡	戊茂貿懋㮊	-
+fɨw	-	缶否	富副覆	-
+vɨw	不浮	阜負婦	復覆伏	-
+tɨw	兜	斗抖陡	鬪	-
+t`ɨw	偸	-	透	-
+dɨw	頭投	-	豆荳痘逗讀	-
+nɨw	-	-	耨	-
+lɨw	樓婁蔞褸摟	簍	陋鏤瘻漏	-
+tsɨw	-	走	奏走	-
+ts`ɨw	-	趣	湊輳	-
+sɨw	漱	藪嗾叟	嗽漱	-
+tʂɨw	鄒騶	-	皺	-
+tʂ`ɨw	篘搊	-	簉䔏	-
+dʐɨw	愁	-	驟	-
+ʂɨw	搜蒐颼	-	瘦	-
+kɨw	鉤句搆枸	苟枸狗垢	構購句	-
+k`ɨw	摳	口叩	叩寇	-
+ŋɨw	-	偶藕	偶	-
+ʔɨw	謳歐鷗	歐敺嘔	-	-
+xɨw	-	吼	蔻詬	-
+ʏɨw	侯喉猴	厚后後	候后後逅	-
+
+The initial /ŋ/ is not distinct from /∅/ in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+叩	shang	k`ɨw	-	qu	-	-	k`ɨw⁴
+藕	shang	ŋɨw	ɨw	-	ɨw	ɨw	ɨw³
+偶	shang,qu	ŋɨw	ɨw	-	-	-	ɨw³
+蔻	qu	-	xɨw	k`ɨw	-	-	k`ɨw⁴

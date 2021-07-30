@@ -1,0 +1,38 @@
+====256
+
+4.2.43 -jem [jem]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pjem	貶	-	-	-
+tjem	-	點	店墊	-
+t`jem	添	忝	-	-
+djem	甛	-	-	-
+njem	拈粘鮎黏	-	念	-
+ljem	廉濂簾鐮匳	斂	斂殮	-
+tsjem	尖殲	-	僭	-
+ts`jem	僉籤簽	-	塹	-
+dzjem	潛	-	漸	-
+sjem	纖暹	-	-	-
+zjem	撏	-	-	-
+tʂjem	瞻霑沾占詹	-	占	-
+tʂ`jem	-	諂	-	-
+ʂjem	-	閃陝	贍	-
+ʐjem	蟾	-	-	-
+rjem	髥	染苒冉	染	-
+kjem	兼	檢檢臉	劒	-
+k`jem	謙	慊歉	欠儉	-
+ɡjem	箝鉗黔鈐	儉	-	-
+ŋjem	-	-	驗釅	-
+ʔjem	淹厭菴閹醃	奄掩	厭淹	-
+xjem	-	險	-	-
+ʏjem	嫌	-	-	-
+jem	鹽炎簷嚴巖閻	琰儼	艶焰	-
+
+	The ending /-m/ has PR variant /-n/. This is faithfully reflected in
+PR, CPR, LR and RR without an exception. The initial /ŋ-/ is not distinct
+in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+臉	shang	kjem	kjen	ljen	ljen	ljen	ljan³
+驗	qu	ŋjem	jen	-	jen	jen	jan⁴
+釅	qu	ŋjem	jen	-	-	-	jan⁴

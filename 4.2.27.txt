@@ -1,0 +1,35 @@
+====223
+
+4.2.27 -wɨn [un]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pwɨn	奔	本	笨	-
+p`wɨn	噴	-	噴	-
+bwɨn	盆	-	坌	-
+mwɨn	門汶	-	悶們	-
+fwɨn	芬雰紛分	粉	-	-
+wwɨn	汾墳賁焚	憤墳忿	分忿奮糞	-
+ɱwɨn	文攺蚊聞	吻刎	問聞紊	-
+twɨn	敦墩	-	頓敦	-
+t`wɨn	暾燉呑	-	褪	-
+dwɨn	豚屯臀芚飩	遁沌盾囤	鈍遁頓	-
+nwɨn	-	-	嫩	-
+lwɨn	論淪崙	-	論	-
+tswɨn	尊樽遵	-	焌	-
+ts`wɨn	村	忖	寸	-
+dzwɨn	存	-	-	-
+swɨn	孫	損	巽遜	-
+kwɨn	昆琨崑	滾	-	-
+k`wɨn	坤	梱綑	困	-
+ʔwɨn	溫瘟	穩	-	-
+xwɨn	昏婚	-	-	-
+ʏwɨn	魂昆渾	混渾棍	諢	-
+
+	All the labial words have PR variant /-ɨn/. PR /ɱɨn/ is still distinct
+from /wɨn/ in PR, LR and RR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. /ɱwɨn/ occurrs once out of several tens of occurrences. It may be a
+misprint for /ɱɨn/.

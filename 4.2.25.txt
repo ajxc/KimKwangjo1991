@@ -1,0 +1,19 @@
+====220
+
+4.2.25 -ɨn [ɨn]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+tʂɨn	臻溱榛	-	-	-
+tʂ`ɨn	-	-	襯	-
+dʐɨn	榛	-	-	-
+ʂɨn	莘	-	-	-
+kɨn	根跟	-	艮	-
+k`ɨn	-	墾懇	-	-
+ŋɨn	垠	-	-	-
+ʔɨn	恩	-	-	-
+ʏɨn	痕垠	很	恨	-
+
+	The initial /ŋ/ is not distinct in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+垠	ping	ŋɨn	ɨn	-	-	-	jɨn²

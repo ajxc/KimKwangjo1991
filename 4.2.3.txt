@@ -1,0 +1,63 @@
+===166
+
+4.2.3. -wɨ [u]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pwɨ	逋	補譜圃	布圃佈怖	卜樸不
+p`wɨ	鋪	普浦	鋪	撲
+bwɨ	蒲葡匍菩	簿部	歩捕哺埠	僕曝瀑勃渤
+				餑𩓐
+mwɨ	模摹摸謨膜	姆母某畝拇	暮慕募墓	木沐鶩目睦
+				穆牧繆沒勿歿
+fwɨ	膚夫扶孵敷	撫父甫府俯	赴訃付傅富	福幅輻副腹
+	俘	脯腑斧	副賦仆	複覆復馥拂
+				彿弗蝠
+vwɨ	扶夫芙符鳧	輔父釜腐	附傅駙父婦負	伏服復匐佛蔔
+ɱwɨ	無亡母蕪巫誣	武舞鵡憮侮	務霧	勿物
+twɨ	都	覩睹堵賭肚	妬蠹	督篤毒頓
+t`wɨ	-	土吐	兎吐	禿
+dwɨ	徒途塗圖屠	杜𢾅肚	度渡鍍	牘讀瀆犢獨
+	茶			毒突
+nwɨ	奴鴑	弩努	怒	訥
+lwɨ		魯虜擄鹵櫓	路露賂鷺	祿鹿錄綠六
+		滷		陸戮
+tswɨ	租	祖組	作做	卒
+ts`wɨ	粗	-	措錯醋酢	促數鏃卒猝
+dzwɨ	-	粗	祚	族
+swɨ	蘇甦穌	-	素訴塑遡	速肅
+tʂwɨ	-	齟詛俎阻	詛	-
+tʂ`wɨ	初芻	楚礎	楚	-
+dʐwɨ	鋤雛	-	助	-
+ʂwɨ	蔬梳疏疎	所數	疏數	縮率帥蟀
+ʐwɨ	-	-	-	孰塾屬贖蜀熟
+rwɨ	-	-	-	辱褥縟肉
+kwɨ	孤姑沽辜箍	古沽鼓股賈	顧雇故固錮痼	穀谷告骨滑
+k`wɨ	枯	苦	庫袴褲	哭酷堀窟
+ŋwɨ	吾梧蜈吳	五伍午旿	誤寤晤	兀
+ʔwɨ	烏惡嗚於汙	塢	惡	屋沃
+xwɨ	呼葫	虎琥滸	呼戽	忽惚笏
+ʏwɨ	胡瑚糊湖蝴	戶扈滬	護瓠互	核斛
+	葫瓠壺狐乎			
+
+	Some labial words are also registered under SR /-ɨw/ but CPR validates
+only the readings with /-wɨ/. LR and RR transcriptions keep distinction
+between /ɱwɨ/ and /wɨ/. SR /ŋwɨʔ/ has PR /wɨʔ/. Some *rusheng* words whose
+Middle Chinese ending was *-k have CPR /-jɨw/.
+
+====168
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. This word occurrs only once in the *Pônyôk Pak t`ongsa*. I do not
+know whether it is a misprint for *mu* or a forerunner of the change: ɱwɨ >
+wɨ.
+	2. /ŋwɨ/ occurrs only once out of several tens of occurrences. Is this
+a misprint?. Generally, the RR's do not differentiate /ŋ/ and /∅/.
+	3. This word occurrs twice in the *Pônyôk Pak t`ongsa*. Is this LR /wɨ/
+a misprint for /ŋwɨ/ or a forerunner of the change, /ŋwɨ/ > /wɨ/?
+	4. We do not know whether this RR meant to be /ʂwɔ/ or /swɔ/, for the
+RR transcription does not differentiate retroflex and plain sibilants.
+However, its CPR and LR are no doubt /ʂwɔ/.
+	5. 率 and 帥 are also listed under SR *qu* /ʂwɨj/ with CPR /ʂwaj/.
+	6. This word is also listed under SR *ru* /ʏɨj/.

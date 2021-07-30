@@ -1,0 +1,32 @@
+====244
+
+4.2.37 -jwɨŋ [juŋ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+ljwɨŋ	龍隆籠瀧朧	壟籠隴攏	-	-
+	瓏聾			
+tsjwɨŋ	縱蹤	慫	縱	-
+dzjwɨŋ	從	-	從	-
+sjwɨŋ	嵩崧淞松鬆	悚	-	-
+zjwɨŋ	-	-	頌誦訟	-
+tʂjwɨŋ	中衷忠終鍾鐘	腫踵種塚冢	衆種中	-
+tʂ`jwɨŋ	充銃衝冲	寵	憃	-
+dʐjwɨŋ	蟲重	重	仲重	-
+ʂjwɨŋ	舂摏憃	-	-	-
+rjwɨŋ	戎絨	冗茸	-	-
+kjwɨŋ	弓躬宮恭供	-	供	-
+k`jwɨŋ	穹芎	恐	-	-
+ɡjwɨŋ	窮邛筇	-	共	-
+ŋjwɨŋ	顒喁	-	-	-
+ʔjwɨŋ	邕雍癰饔	-	雍壅	-
+xjwɨŋ	胸匈凶兇兄	兇	-	-
+ʏjwɨŋ	雄熊	-	-	-
+jwɨŋ	融容蓉鎔溶	勇甬埇湧涌	用	-
+	榕瑢庸墉鏞傭	慂俑擁壅		
+
+	All the words except some guttural ones have the depalatalized PR
+variant /-wɨŋ/, of which phonological pattern generally agrees with Modern
+Mandarin.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}

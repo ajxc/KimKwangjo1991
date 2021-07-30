@@ -1,0 +1,31 @@
+====226
+
+4.2.28 -jwɨn [jun]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+ljwɨn	倫綸淪輪	-	-	-
+tsjwɨn	-	-	俊畯駿	-
+ts`jwɨn	逡竣皴	-	-	-
+sjwɨn	荀詢恂洵珣	筍	恂峻駿濬浚	-
+zjwɨn	旬巡循馴	-	殉徇	-
+tʂjwɨn	諄屯𦙛	準准純	-	-
+tʂ`jwɨn	春椿	𧐧	-	-
+ʂjwɨn	-	-	舜橓瞬	-
+ʐjwɨn	純醇淳脣蒓鶉	-	順楯	-
+rjwɨn	-	盾楯	閏潤	-
+kjwɨn	鈞均君軍	-	-	-
+k`jwɨn	囷箘	稛	-	-
+ɡjwɨn	群裙	窘菌	郡	-
+ʔjwɨn	淵	縕蘊苑	縕蘊溫熨	-
+xjwɨn	熏燻薰勳葷	-	訓	-
+jwɨn	勻畇筠雲耘	允隕殞	運暈韻	-
+	芸云員	-	-	-
+
+====227
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+筍	shang	sjwɨn	swɨn	-	swɨn	swɨn	swɨn³
+鶉	ping	ʐjwɨn	-	@dʐjɨwn dʐjwɨn@	dʐjwɨn	tʂ`jwɨn	ts`wɨn²
+純醇淳脣	ping	ʐjwɨn	-	dʐjwɨn	-	-	ts`wɨn²
+葷	ping	ʐjwɨn	-	xwɨn	xjwɨn	xjwɨn	xwɨn¹
+							ɕjwɨn¹

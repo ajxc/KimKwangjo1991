@@ -1,0 +1,27 @@
+====175
+
+4.2.6 -jwe [ye]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+ljwe	-	-	-	劣
+tsjwe	-	-	-	㔃𢴭
+dzjwe	-	-	-	絶
+sjwe	-	-	-	雪
+tʂjwe	-	-	-	拙輟綴
+tʂ`jwe	-	-	-	啜
+ʂjwe	-	-	-	說
+rjwe	-	-	-	𤑔𤋲
+kjwe	-	-	-	厥蹶蕨抉決
+				譎訣
+k`jwe	-	-	-	闕缺橛
+ɡjwe	瘸	-	-	掘
+ŋjwe	-	-	-	月越鉞曰悅閱
+				粵
+ʔjwe	-	-	-	抉
+xjwe	靴	-	-	血
+ʏjwe	-	-	-	穴
+
+====176
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+血	ru	xjwe	-	xjeʔ	xjweʔ	xjwe	xjwe⁴,xje³

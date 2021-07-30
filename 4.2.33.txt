@@ -1,0 +1,29 @@
+====237
+
+4.2.33 -an [an]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pan	班斑頒	版板	扮	-
+p`an	攀	-	盼	-
+ban	-	-	瓣辦	-
+man	蠻	-	慢	-
+tan	單鄲簞丹	亶	旦	-
+t`an	灘歎嘆攤	坦	炭歎嘆灘	-
+dan	壇檀彈	但袒誕	憚彈誕	-
+nan	難	-	難	-
+lan	欄蘭瀾	懶	爛	-
+tsan	-	-	贊讚	-
+ts`an	餐	-	粲璨燦	-
+dzan	殘	棧	瓚	-
+san	散	散傘	散	-
+tʂan	-	盞	-	-
+tʂ`an	-	産鏟	鏟	-
+dʐan	孱潺	撰饌	袒綻棧	-
+ʂan	刪山疝珊	-	汕疝訕	-
+
+====238
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+攀	ping	p`an	p`ɔn	-	p`ɔn	p`ɔn	p`an¹
+撰	shang	dʐan	dʐwan	-	-	-	tʂwan⁴
+饌	shang	dʐan	dʐwan	dʐjwen	-	-	tʂwan⁴

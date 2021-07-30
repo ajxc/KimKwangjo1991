@@ -1,0 +1,54 @@
+====16
+
+Conventions and Abbreviations
+
+	All the forms, both phonetic and phonemic, are expressed in the
+International Phonetic Alpabet (IPA). In addition, to represent two apical
+vowels of Chinese, dental and retroflex, the notations [ɿ] and [ʅ ] are
+added in accordance with general practice in Chinese phonetics. Karlgren's
+Ancient Chinese (=our Middle Chinese) forms are also given in IPA.
+	Transliterations of Korean alphabets are in accordance with my own
+system discussed in Chapter Two. They are underlined to differentiate them
+from other phonetic notations. Korean names are nornally given in
+MacCune-Reischauer ronanization.
+	Modern Mandarin forms, both phonetic and phonemic, are given in IPA as
+described in Chapter One. When citing Chinese names, they are given in
+*pinyin* romanization. Other Chinese dialect forms are also given in IPA as
+found in such sources as the *Hanyu fangyin zihui* (1962).
+	Japanese words are given in Hepburn romanization with the addition of
+*kana* spellings where necessary.
+Square brackets [] are used to express phonetic forms. Slashes // are
+used to make clear that a form is a phonemicization. Parentheses () are
+sonetines used to give a supplerentary infornation. Book titles are
+underlined.
+	Abbreviations are generally avoided but sometimes used. The following
+are the conventions and abbreviations used in the text.
+
+[]	"phonetic forn"
+//	"phonemic form"
+>	"changes into (diachronically)"
+<	"is derived from (diachronically)"
+~	"alternating with (synchronically)"
+*	"reconstructed or unattested form"
+MC	Middle Chinese
+MM	Middle Mandarin
+Mo.M	Modern Mandarin
+MK	Middle Korean
+*HWZY* or *Zhengyun*	*Hongwu zhengyun* (1375) 洪武正韻
+*HMCUYH* or *Yôkhun*	*Hongmu chông'un yôkun* (1455) 洪武正韻譯訓
+*SSTG* or *T'onggo*	*Sasông t`ongo* (circa 1450?) 四聲通攷
+*SSTH* or *T'onghae*	*Sasông t`onghae* (1517) 四聲通解
+*Pônyôk NG*	*Pônyôk No Gôltae* (circa 1510) 飜譯老乞大
+*Pônyôk PT*	*Pônyôk Pak t`ongsa* (circa 1510) 飜譯朴通士
+*Pônyôk*	*Pônyôk No Gôltae* and *Pônyôk Pak t`ongsa*
+*Chimnam*	*No Pak chimnam* (circa 1510) 老朴集覽
+*NG ônhae*	*No Gôltae ônhae* (1670) 老乞大諺解
+*PT ônhae*	*Pak t`ongsa ônhae* (1677) 朴通士諺解
+*Ônhae*	*No Gôltae ônhae* and *Pak t`ongsa ônhae*
+*Sinsôk*	*Pak to'ongsa sinsôk ônhae* (1765) 朴通士新釋諺解
+*Chunggan*	*Chunggan No Gôltae ônhae* (1795) 重刊老乞大諺解
+SR	Standard reading in the *Yôkhun* and/or the *T'onghae*
+PR	Popular reading in the *Yôkhun* and/or the *T'onghae*
+CPR	Current popular reading in the *T'onghae*
+LR	Left reading in the *Pônyôk*
+RR	Right reading in the *Pônyôk*

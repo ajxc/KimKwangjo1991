@@ -1,0 +1,38 @@
+4.1 Introduction
+
+	Middle Mandarin, as we observed previously, is not a faithful
+reflection of the single phonological system but rather a reflection of
+various systems, and does not represent a certain frozen synchronic state
+but more or less a diachronic state. Depending on a point of view,
+variations in Middle Mandarin may be viewed as internal development of the
+same dialect, or as intermingling of various dialects or sub-dialects.
+	The compilers of Middle Mandarin materials were not native speakers of
+any single Chinese variety. As foreign phoneticians, all they were able to
+do was to be as descriptive as possible about the Chinese varieties which
+they were in contact with.  We may say that Middle Mandarin is a picture of
+Mandarin variants spoken around Beijing during the mid-fifteenth and the
+early sixteenth centuries. They started from a phoneticization of the
+*Hongwu zhengyun* system using the Korean alphabet as phonetic symbols,
+ending up with a more or less idealized system. However, they also provided
+notes and variant readings in order to resolve discrepancies between
+idealized standard and actual readings. Another element which we must bear
+in mind is approximately the sixty-year time gap between Sin Sukchu
+(1417-1475) and Ch`we Sejin (1478?-1543). Apparently, some phonological
+changes had taken place during that period. This is, in my opinion, why
+Middle Mandarin presents itself with a wide variety of variant readings as
+
+====154
+
+well as standard readings.
+	In this chapter, I will provide the tables of Middle Mandarin
+syllabary accomodating all the syllables in the standard readings and all
+the variant readings. I have tried to accomodate as many words as possible
+so that it can be used as a historical reference source. Since, except for
+a small number of random variant readings, most of them show a systematic
+phonological correlation with one another, phonemic representation is used
+in order to make their phonological relationship clearer. *Rusheng* syllables
+are not separated segmentally but are presented together with the
+corresponding non-*rusheng* ones in the standard reading. As for the variant
+readings of *ru* words, however, the segmental ending /-ʔ/ is provided or is
+not provided according as whether the original transcription in question
+has -*ʔ* or not.

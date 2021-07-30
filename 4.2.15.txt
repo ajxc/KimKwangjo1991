@@ -1,0 +1,63 @@
+====198
+
+4.2.15 -jej [jej]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pjej	篦	-	-	-
+mjej	迷彌	米彌靡	寐謎袂	-
+tjej	低氏堤	邸底抵	帝諦	-
+t`jej	梯	體涕	剃涕替	-
+djej	題啼提蹄梯	弟悌遞	第弟悌遞逮地	-
+njej	尼泥呢	你	泥膩	-
+ljej	狸離麗籬璃	里理俚鯉裏	利痢吏離隷	-
+	罹釐黎犁梨	李履禮	麗例勵荔厲	-
+tsjej	齎擠	濟	濟祭際	-
+ts`jej	妻凄悽	-	切妻砌	-
+dzjej	齊臍	薺	劑薺	-
+sjej	西樓嗣犀	洗徙璽	細棲壻	-
+dʐjej	-	-	滯	-
+kjej	鷄稽羈奇饑	己紀幾	計繫係繼季	-
+	肌其朞基機		寄記冀彌忌	-
+	棋譏幾箕姬		旣	-
+k`jej	谿溪欺	啓稽起杞綺豈	企棄𬀡憩器	-
+			氣乞	-
+ʔjej	烓	-	-	-
+ʏjej	兮蹊畦携奚	傒	系繫係	-
+jej	兒霓倪	-	-	-
+
+All the words listed in this SR final must have had a final /-jɨ(j)/
+[i] in contemporary actual speech. The *Hongmu chông'un yôkhun* says that all
+the words with this SR final have a PR final, /-jɨ/¹⁾. The general
+illustrations of the *Sasông t`onghae* gives the following note for this SR
+final: "The finals of the rime *zhi 支 /-ɨ/ and /-jɨ/ and that of the rime
+*qi* 齊 /-jej/, seemingly, can be combined, but I have differentiated them.
+However, the words with the final /-jɨ/ and the popular reading of the rime
+*qi* are confused and there is no distinction. Can we distinguish them from
+each other? The *Yunxue jicheng* 韻學集成 mixes them up and the *Zhongzhou
+yinyun* 中州音韻 also makes the final /-ɨ/ one rime and the final /-jɨ/ one
+rime. Now, I also should make the final /-ɨ/ of the rime *zhi* one rime, and
+the final /-jɨ/ (of the rime *zhi*) and the rime *qi* one rime, so that sounds
+and finals can be clearly understood." And the note for SR final /-jej/ in
+the *Sasông t`onghae* testifies the following: "The final /-jej/ in all cases
+
+	1. The *pingsheng* part of this rime is missing in the *Hongmu chông'un
+yôkhun*. In the first SR entry, which is /tsjej/, of the *qusheng* rime,
+its note says: "the popular reading is /tsjɨ/. All the words in the rime have
+the same final. Explanation is seen in the *pingsheng* rime *qi* 齊." The note
+for the first SR entry of the *shangsheng* has a basically same content but
+its popular reading is erased.
+
+====200
+
+is pronounced /-jɨ/ in the current practice. For instance, '鷄' /kjej/ is
+/kjɨ/. Now, all of them follow this practice." Only the final /-jɨ/ appears
+in LR and RR, too.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+靡	shang	mjej	mɨj²⁾	-	-	-	mjɨ³
+寐袂	qu	mjej	mɨj	-	-	-	mɨj⁴
+謎	qu	mjej	mɨj³⁾	mɨj	mjɨ	mjɨ	mjɨ²
+企	qu	k`jej	kjɨ	shang	-	-	tɕ`jɨ³
+
+	2. This PR is documented only in the *Sasông t`onghae*.
+	2. This PR is documented only in the *Hongmu chông'un yôkhun*.

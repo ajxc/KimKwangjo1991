@@ -1,0 +1,162 @@
+====159
+
+4.2.2 -jɨj (jɨ) [i]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pjɨj	卑碑裨悲	比秕鄙彼俾	秘泌庇痺轡	必畢筆壁璧
+			臂閉蔽比	碧逼副
+p`jɨj	披批	否痞	譬屁	匹疋僻癖霹劈
+bjɨj	皮疲脾琵枇裨	陛婢被	弊幣斃被避	弼闢僻擗
+			枇備鼻敝鞁	
+ɱjɨj	靡	-	-	密覓
+fjɨj	非飛妃	匪榧菲	廢肺吠費翡沸	-
+			疿	
+vjɨj	肥	-	-	-
+ɱjɨj	維惟唯微薇	尾	未味	-
+tjɨj	-	-	-	的滴嫡
+t`jɨj	-	-	-	剔惕踢
+djɨj	-	-	-	笛敵狄翟荻
+				迪滌
+njɨj	-	-	-	匿溺暱
+ljɨj	-	-	-	栗慄歷曆靂
+				轢力立笠粒
+tsjɨj	-	-	-	卽稷積蹟積
+				脊瘠勣揖鯽
+ts`jɨj	-	-	-	七漆緝刺戚
+dzjɨj	-	-	-	疾嫉寂籍瘠
+				藉蟄集輯
+sjɨj	-	-	-	悉膝昔惜錫晳
+				析息熄媳
+zjɨj	-	-	-	席蓆夕汐習襲
+tʂjɨj	知蜘支肢	紙只咫枳指旨	智誌志至致	質蛭窒雙拓
+	梔脂之芝	止趾址芷徵	置制製摯痣	炙職織陟這
+tʂ`jɨj	蚩痴癡嗤眵鴟	恥祉齒侈𠹛	傺掣	叱尺赤斥勅蟄
+dʐjɨj	馳池治持遲	雉峙痔	治緻穉稚値植	秩帙姪擲直蟄
+ʂjɨj	施詩尸屍篩	始豕矢屎水	試弒翅世施	失室實釋奭
+	師獅	史使	貰勢使	適識飾式拭軾
+ʐjɨj	時匙鰣	市恃是氏視	待寺視市士	石碩寔湜殖
+		士仕枾	仕枾嗜誓筮	植食蝕射十
+			逝事示諡	什拾濕
+rjɨj	兒而輀	耳珥餌爾邇	二貳餌珥	日入
+kjɨj	-	-	-	訖吃吉戟激擊
+				棘級汲箴急給
+k`jɨj	-	-	-	乞契詰隙喫泣
+ɡjɨj	奇騎錡琦其鰭	技伎妓錡	騎忌	劇極及
+	期碁棋旗麒岐			
+	祈畿幾祇耆祁			
+ŋjɨj	-	-	-	疑仡屹
+ʔjɨj	伊醫依衣椅	倚椅醫	意倚懿縊	一乙益憶億
+				臆抑揖邑
+xjɨj	羲犧曦嬉禧	喜嬉	戲	吸翕迄
+	希稀晞熙嘻			
+ʏjɨj	-	-	-	檄覡
+jɨj	彛夷姨飴移	以已蟻矣擬	異易義誼議	譯驛掖液亦
+	怡宜儀䶑遺		毅詣藝曳裔	易奕射翼翌
+	貽沂		刈乂肄劓	逆疑腋弋
+
+	The SR /ɱjɨj/ has CPR _ɱui_ and RR _∅ui_, which are phonemically
+interpreted /wɨj/. This means that by the early sixteenth century /ɱjɨj/
+merged into /wɨj/. Its process may be portrayed as follows: /ɱjɨj/ > */mjɨj/
+> /wɨj/. The other labidentals /fjɨj/ and /vjɨj/, however, developed a
+depalatized CPR and/or RR variant /fɨj/ and/or /vɨj/ only in the _ping_ words
+as we see in the list below. These may be considered forerunners of these
+changes. For the _shang_ and _qu_ words seem to have lost /-j-/ as late as in
+the eighteenth century. (For this, look at Chapter Four, 5.2.1.2
+“Depalatization”.) Many of bilabial non-_rusheng_ words have PR or CPR
+/-ɨj/, which agree mostly with Modern Mandarin but with a few exceptions.
+Many of retroflex non-*rusheng* words have PR /-ɨ/. These may be considered
+forerunners because all the retroflex words with /-jɨ/ have eventually
+evolved into /-ɨ/ in Modern Mandarin. The words with SR /ŋjɨ/ have PR /jɨ/,
+but two *ru* words 逆 and 疑 with SR /jɨ/ reversely have PR /ŋjɨʔ/.
+
+====162
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+碑	ping	pjɨj	pɨj	-	pɨj	pɨj	pɨj¹
+卑悲	ping	pjɨj	pɨj	-	-	-	pɨj¹
+裨	ping	pjɨj	pɨj	-	-	-	pjɨ⁴
+比	shang	pjɨj	pɨj	-	pjɨj	pjɨ	pjɨ³
+秕彼鄙俾	shang	pjɨj	pɨj	-	-	-	pjɨ³〓⁴
+比	qu	pjɨj	-	shang	-	-	pjɨ³
+轡¹⁾	qu	pjɨj	-	p`jɨj	pjɨj	p`jɨj	p`ɨj⁴,p`jɨ⁴
+痞	shang	p`jɨj	-	-	p`ɨj	p`ɨj	p`jɨ³
+被鞁	shang	bjɨj	-	bɨj	bɨj	pɨj	pɨj⁴
+婢	shang	bjɨj	-	-	bjɨj	pjɨj	pjɨ⁴,pɨj⁴
+被	qu	bjɨj	-	bɨj	bjɨj	pɨj	pɨj⁴
+備	qu	bjɨj	-	bɨj	bjɨj	pjɨj	pɨj⁴
+非	ping	fjɨj	-	fɨj	fjɨj	fɨj	fɨj¹
+飛妃	ping	fjɨj	-	fɨj	-	-	fɨj¹
+肺費	qu	fjɨj	-	-	fjɨj	fjɨj	fɨj⁴
+肥	ping	vjɨj	-	vɨj	vjɨj	fɨj	fɨj²
+微	ping	ɱjɨj	-	wɨj	ɱjɨj	wɨj	wɨj¹
+維惟唯薇	ping	ɱjɨj	-	wɨj	-	-	wɨj²
+尾	shang	ɱjɨj	-	wɨj	ɱjɨj	jɨ	wɨj³,jɨ³
+未	qu	ɱjɨj	-	wɨj	ɱjɨj	wɨj	wɨj⁴
+味	qu	ɱjɨj	-	wɨj	-	-	wɨj⁴
+支枝脂之芝	ping	tʂjɨ	tʂɨ	-	tʂɨ	tʂɨ	tʂɨ¹
+肢梔	ping	tʂjɨ	tʂɨ	-	-	-	tʂɨ¹
+指旨	shang	tʂjɨ	tʂɨ	-	tʂɨ	tʂɨ	tʂɨ³
+只	shang	tʂjɨ	qu²⁾	-	·tʂɨ	·tʂɨ	tʂɨ³
+紙	shang	tʂjɨ	tʂɨ	tʂjɨ	tʂɨ	tʂɨ	tʂɨ³
+咫枝止趾	shang	tʂjɨ	tʂɨ	-	-	-	tʂɨ³
+址芷徵							
+至	qu	tʂjɨ	tʂɨ	-	tʂɨ	tʂɨ	tʂɨ
+志	qu	tʂjɨ	tʂɨ	-	-	-	tʂɨ
+誌	qu	tʂjɨ	-	-	tʂjɨ	tʂɨ	tʂɨ
+齒	qu	tʂ`jɨ	tʂ`ɨ	-	tʂ`ɨ	tʂ`ɨ	tʂ`ɨ
+侈	qu	tʂ`jɨ	tʂ`ɨ	-	-	-	tʂ`ɨ
+施詩屍師獅	ping	ʂjɨ	ʂɨ	-	ʂɨ	ʂɨ	ʂɨ
+尸	ping	ʂjɨ	ʂɨ	-	-	-	ʂɨ
+篩³⁾	ping	ʂjɨ	ʂɨ	ʂai	-	-	ʂaj
+使	shang	ʂjɨ	ʂɨ	-	ʂjɨ	ʂɨ	ʂɨ
+水⁴⁾	shang	ʂjɨ	ʂjɨ	ʂwɨj	ʂwɨj	ʂwɨj	ʂwɨj
+始豕矢屎	shang	ʂjɨ	ʂɨ	-	-	-	ʂɨ
+史駛	shang	ʂjɨ	ʂɨ	-	-	-	ʂɨ³
+試使	qu	ʂjɨ	ʂɨ	-	ʂɨ	ʂɨ	ʂɨ⁴
+弒	qu	ʂjɨ	ʂɨ	-	-	-	ʂɨ⁴
+時	ping	ʐjɨ	ʐɨ	-	ʐɨ	ʂɨ	ʂɨ²
+匙	ping	ʐjɨ	ʐɨ	dʐɨ	ʐɨ	tʂ`ɨ	tʂ`ɨ²,ʂɨ⁵
+鰣	ping	ʐjɨ	ʐɨ	-	-	-	ʂɨ²
+市枾	shang	ʐjɨ	ʐɨ	-	ʐɨ	ʂɨ	ʂɨ⁴
+是	shang	ʐjɨ	ʐɨ	ʐjɨ	ʐɨ	ʂɨ	ʂɨ⁴
+恃氏視士仕	shang	ʐjɨ	ʐɨ	-	-	-	ʂɨ⁴
+是侍事	qu	ʐjɨ	ʐɨ	-	ʐɨ	ʂɨ	ʂɨ⁴
+寺視市士豉	qu	ʐjɨ	ʐɨ	-	-	-	ʂɨ⁴
+仕枾嗜示諡							
+兒而	ping	rjɨ	rɨ	-	rɨ	rɨ	ɨr²
+輀	ping	rjɨ	rɨ	-	-	-	ɨr²
+餌耳	shang	rjɨ	rɨ	-	rɨ	rɨ	ɨr³
+珥邇爾洱	shang	rjɨ	rɨ	-	-	-	ɨr³
+二	qu	rjɨ	rɨ	-	rɨ	rɨ	ɨr⁴
+貳	qu	rjɨ	rɨ	-	-	-	ɨr⁴
+疑⁵⁾	ping	jjɨ	-	-	ŋjɨ	ŋjɨ,jɨ⁶⁾	jɨ²
+宜	ping	jɨj	-	-	ŋjɨj,jɨ	jɨ	jɨ²
+翅⁷⁾	qu	ʂjɨ	ʂɨ	tʂ`ɨ	tʂ`ɨ	tʂ`ɨ	ts`ɨ⁴
+副⁸⁾	ru	pjɨ	-	p`jɨʔ	-	-	p`jɨ⁴
+闢擗	ru	bjɨ	p`jɨʔ	-	-	-	p`jɨ³〓⁴
+入	ru	rjɨ	rjwɨʔ	rjɨʔ	rjwɨʔ	rjwɨ	rwɨ⁴
+喫(吃)⁹⁾	ru	k`jɨ	-	tʂ`jɨʔ	tʂ`jɨʔ	tʂ`jɨ	tʂ`ɨ¹
+疑屹仡	ru	ŋjɨ	jɨʔ	-	-	-	njɨ³,jɨ⁴
+逆疑	ru	jɨ	ŋjɨʔ	-	-	-	njɨ⁴〓³
+
+	1. The *No Pak chimnam* gives an interesting note for this word that in
+the current pronunciation, the reading of 轡 in ‘鞍轡’ is /pjɨj/, and the
+one in ‘好轡頭’, /p`jɨj/.
+	2. This PR is from the *No Pak chimnam*, neither from the *Sasông
+t`onghae* nor the *Hongmu chông`un yôkhun*. The RR's and LR's for this word
+also indicate a *qusheng*, giving one dot for its transcriptions.
+	3. This word is also listed under SR *ping* /ʂai/ with CPR /ʂaj/.
+	4. This word is also listed under SR *shang* /ʂwɨj/.
+	5. The *Sasông t`onghae* quotes the "Mongol Rimes" and the "Old Rimes"
+which give the initial /ŋ/ to this word.
+	6. Of a total of two occurrences, one is transcribed /ŋjɨ/ and the
+other, /jɨ/. This /ŋjɨ/ is especially pecular because the RR
+transcription is not supposed to distinguish /ŋ/ and /∅/.
+	7. The *Sas`ong t`onghae* quotes the "Mongol Rimes"
+which give a initial /ŋ/ to this word. Of a total of four occurrences in
+the *Pônyôk*, two LR's are transcribed /ŋjɨ/, and two, /jɨ/.
+	8. This word is also listed under SR *qu* /tʂ`ɨ/.
+	9. The *No Pak chimnam* gives a note for this word. It says that its
+standard reading is /k`jɨ/ and its popular reading, /tʂ`jɨ/, and it is
+pronounced with *qu* or *shang* in the popular practice. For details, see
+Chapter Three 3.5.1.

@@ -1,0 +1,52 @@
+====212
+
+4.2.22 -aw [aw]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+paw	包苞褒	飽寶保堡褓	豹爆報	博薄剝駁爆
+				簿膊
+p`aw	胞抛泡	-	砲礟	朴粕璞樸			
+baw	咆袍匏跑	鮑抱	暴曝疱鉋	雹撲鰒暴泊
+				薄箔簿魄瓟
+maw	茅猫毛	卯昴	貌帽瑁冒	莫暮漠膜摸
+				寞邈貌
+vaw				縛
+taw	刀	倒禱搗島	到倒禱	-
+t`aw	滔韜挑	討套	-	託柝拓托魄
+daw	陶萄淘桃濤	道稻	導道盜悼蹈	鐸度
+	逃掏			
+naw	鐃撓	腦惱	閙橈	諾
+law	勞撈牢	老	勞	洛酪落絡樂
+				烙駱
+tsaw	遭糟	早蚤藻棗澡	躁灶	作鑿
+ts`aw	操	草	操造	錯
+dzaw	曹槽漕	造皂	漕鑿	昨鑿
+saw	騷搔臊	掃燥嫂	燥瘙掃	索
+tʂaw	嘲	爪	罩㧓	-
+tʂ`aw	抄鈔	炒	抄	齪
+dʐaw	巢	-	櫂棹	-
+ʂaw	梢捎	-	稍	朔數
+ʐaw	-	-	-	浞
+kaw	高膏皐羔糕	槁皓縞暠稿	誥告膏	各閣格
+k`aw	尻	考攷槁拷烤	靠犒	恪
+ŋaw	敖熬	-	傲	-
+ʔaw	-	懊夭襖	奧墺澳懊	惡堊
+xaw	蒿薅	好	耗好	壑鄗郝
+ʏaw	豪毫	浩	號	鶴
+aw	-	-	-	愕鰐鄂萼
+
+	Almost all the *ru* words except for guttural one have RR /-wɔ/ in the
+*Pônyôk*. Strangely, the *Sasông t`onghae* is quiet about this variant reading.
+Most of retroflex *ru* words have PR /-wawʔ/, which may have already
+developed a variant /-wɔʔ/. The *T`onghae* in the note of the SR final
+/-wawʔ/ says that all the words with this final are pronounced /-wɔ(ʔ)/ in
+CPR. And some guttural *ru* words have CPR and/or RR /-ɔ/. The initial /ŋ/
+is not distinct in PR.
+
+Words	Tone	SR	PR	CPR	PR	RR	Mo.M
+{}
+
+	1. Of a total of fourteen occurrences of 各, /kawʔ/ occupies nine. Of
+a total of ten of 閣, /kawʔ/ occupies three. Curiously, /kawʔ/ occurs only
+in the *Pônyôk No Gôltae* except for one occurrence of 各 /kɔʔ/, and /kɔʔ/ in
+the *Pônyôk Pak T`ongsa*.

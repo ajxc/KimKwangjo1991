@@ -1,0 +1,35 @@
+====269
+
+4.2.48 -wɨjŋ [ujŋ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+bwɨjŋ	-	螷	甏	-
+kwɨjŋ	觥肱	鑛礦丱	-	-
+k`wɨjŋ	鞃	-	-	-
+ʔwɨjŋ	泓	-	-	-
+xwɨjŋ	轟薨	-	-	-
+ʏwɨjŋ	橫衡鐄弘宏	丱	橫	-
+
+	Most of the words in this final have a variant /-wɨŋ/ or /-ɨŋ/. We
+could say that the final /-wɨjŋ/ had practically disappeared in actual
+speech by the early sixteenth century¹⁾.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+觥肱	ping	kwɨjŋ	-	kwɨŋ	-	-	kwɨŋ¹
+鑛礦丱	shang	kwɨjŋ	-	kwɨŋ	-	-	kwɨŋ³,k`waŋ⁴
+鞃	ping	k`wɨjŋ	-	k`wɨŋ	-	-	xwɨŋ²
+泓	ping	ʔwɨjŋ	-	ʔwɨŋ	-	-	xwɨŋ²
+轟薨	ping	xwɨjŋ	xwɨŋ²⁾	ʏwɨŋ	-	-	xwɨŋ¹
+橫	ping	ʏwɨjŋ	ʏwɨŋ	ʏɨŋ	-	-	xɨŋ²
+衡	ping	ʏwɨjŋ	ʏwɨŋ³⁾	ʏɨŋ	-	-	xɨŋ²
+鐄弘宏	ping	ʏwɨjŋ	ʏwɨŋ⁴⁾	-	-	-	xwɨŋ²
+丱	shang	ʏwɨjŋ	kwɨjŋ	kwɨŋ,kɨŋ	-	-	kwɨŋ³
+橫	qu	ʏwɨjŋ	ʏwɨŋ⁵⁾	ʏɨŋ	ʏwɨŋ⁶⁾	xwɨŋ	xɨŋ⁴
+
+	1. For details, see the discussions in Chapter Three 3.4.3.
+	2. This PR appears only in the *Hongmu chông'un yôkhun*.
+	3. This PR only appears in the *Sasông t`onghae*.
+	4. This PR appears only in the *Sasông t`onghae*.
+	5. This PR appears only in the *Sasông t`onghae*.
+	6. It is not clear whether these LR and RR transcriptions meant to be
+/ʏwɨŋ/ or /ʏɨŋ/ for LR, and /xwɨŋ/ or /xɨŋ/ for RR.

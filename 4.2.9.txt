@@ -1,0 +1,43 @@
+====183
+
+4.2.9 -a [a]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pa	巴芭	把	覇把壩爸	八捌
+p`a	-	-	怕帕	叭
+ba	杷爬琶	-	罷杷	拔
+ma	麻痲	馬瑪碼	罵	-
+fa	-	-	-	法
+va	-	-	-	乏
+ta	-	-	-	疸答搭
+t`a	-	-	-	撻澾獺榻塔
+				搭塌
+da	-	-	-	達沓踏
+na	拏拿	-	-	捺納衲
+la	-	-	-	剌辣拉蠟臘
+tsa	-	-	-	咱匝
+ts`a	-	-	-	攃
+dza	-	-	-	雜
+sa	-	-	-	薩撒颯鈒卅
+tʂa	-	-	詐	札紮箚眨扎
+tʂ`a	叉差	-	差侘詫	刹察擦揷
+dʐa	茶査	-	乍	鍘
+ʂa	沙砂紗裟	灑	厦	殺翣霎
+ka	-	-	-	合蛤閤鴿
+k`a	-	-	-	磕
+ʔa	-	-	-	凹
+ʏa	-	-	-	合盒闔盍
+
+	Most of the guttural *rusheng* words with this final have a variant
+reading with /-ɔʔ/, which agrees with Modern Mandarin /-e/.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+杷	qu	ba	-	shang,qu	-	-	ba⁴〓³
+合	ru	ka	kɔʔ	-	kɔʔ	kɔ	ke¹〓³
+蛤閤鴿	ru	ka	kɔʔ	-	-	-	ke²
+磕	ru	k`a	-	k`ɔʔ	k`ɔʔ	k`ɔ	k`e¹
+合盒	ru	ʏa	ʏɔʔ	-	ʏɔʔ	xɔ	xe²
+闔	ru	ʏa	ʏɔʔ	-	-	-	xe²
+凹	ru	ʔa	-	ʔwa(shang)	ʔwaʔ	ʔwa	wa¹
+凹	ping	ʔjaw	-	ʔwa(shang)	-	-	jaw¹
+凹	qu	ŋwa	wa	-	-	-	aw¹

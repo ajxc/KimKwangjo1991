@@ -1,0 +1,43 @@
+====228
+
+4.2.29 -jen [jen]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pjen	邊鞭編蝙	扁匾	變遍	-
+p`jen	篇偏扁翩	-	片騙	-
+bjen	駢便緶	辯辨扁辮	便卞汴	-
+mjen	眠綿	免緬沔勉娩	麵眄面	-
+tjen	顚癲	典	殿	-
+t`jen	天	-	-	-
+djen	田塡鈿	塡殄	電殿奠甸鈿佃	-
+njen	年	撚攆	輾碾	-
+ljen	蓮憐連聯	輦連	練鍊煉藺	-
+tsjen	箋煎	剪煎錢	薦箭煎濺	-
+ts`jen	千阡遷	淺	-	-
+dzjen	前錢	踐餞	賤餞	-
+sjen	先仙鮮	銑蘇鮮癬	先線霰	-
+zjen	涎	-	羨	-
+tʂjen	氈	展輾	戰顫	-
+tʂ`jen	-	闡	-	-
+dʐ`jen	纏廛單嬋禪蟬	撰	纏	-
+ʂjen	扇煽羶搧	-	扇煽	-
+ʐjen	涎	善	羨膳善擅	-
+kjen	堅肩甄	繭	建見	-
+k`jen	牽愆	遣	譴遣牽俔	-
+ɡjen	乾虔	鍵件	健	-
+ŋjen	-	巘	-	-
+ʔjen	烟煙燕咽閼焉	偃堰	宴燕咽堰嚥	-
+xjen	軒掀	顯	憲獻	-
+ʏjen	賢弦絃舷	峴	見現縣	-
+jen	延筵姸緣硏	衍演縯袞	衍硯彦諺緣	-
+	言焉沿鉛			
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+緶	ping	p`ien	-	*qu*	-	-	pjan⁴,p`jan²
+藺¹⁾	qu	ljen	-	ljen	-	-	ljɨn⁴
+善	shang	ʐjen	*qu*	-	:ʐjen	·ʂjen	ʂan⁴
+緣²⁾	ping	jen	-	jen	jwen	jwen	jwan²
+緣	qu	jen	-	-	jwen	jen	jwan⁴
+
+	1. This word is also listed under SR *qu* /ljɨn/.
+	2. This word is also listed under SR *ping* /jwen/ with CPR /jen/.

@@ -1,0 +1,31 @@
+====157
+
+4.2.1 -ɨ [ɨ],[ɿ],[ʅ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+tsɨ	資姿咨玆滋	紫姉子梓滓仔	恣	-
+ts`ɨ	雌	此	刺次	-
+dzɨ	疵瓷慈磁	-	自字	-
+sɨ	斯絲思私司	死	賜四肆伺思	-
+			寺嗣飼	
+zɨ	辭詞祠	似祀巳俟	-	-
+tʂɨ	輜淄緇	-	-	櫛
+tʂ`ɨ	差嵯	-	厠翅熾幟	-
+ʂɨ	-	-	-	瑟蝨
+kɨ	-	-	-	紇肐疙
+ʏɨ	-	-	-	紇
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+滓	shang	tsɨ	-	tʂaj	-	-	tsɨ³
+伺	qu	sɨ		ts`ɨ	sɨ	ts`ɨ	ʂɨ⁴,ts`ɨ⁴
+辭	ping	zɨ	-	-	zɨ	ts`ɨ	ts`ɨ²
+翅¹⁾	qu	tʂ`ɨ	-	-	tʂ`ɨ	tʂ`ɨ	tʂ`ɨ⁴
+厠²⁾	qu	tʂ`ɨ	-	sɨ	tʂ`ɨ	tʂ`ɨ	tʂ`ɨ⁴,sɨ⁴,ts`e⁴
+蝨	ru	ʂɨ	-	‘師’音	-	-	ʂɨ¹
+師	pinɡ	ʂjɨ	ʂɨ	-	ʂɨ	ʂɨ	ʂɨ¹
+肐	ru	kɨ	-	-	kɨʔ	kɨʔ	ke¹
+
+	1. This word is also listed under SR *qu* /ʂjɨ/ with PR /ʂɨ/ and CPR
+/tʂ`ɨ/.
+	2. The *No Pak chimnam* gives a note for this word, saying that its
+original reading is /tʂ`ɨ/ and its popular reading, /ʂɨ/.

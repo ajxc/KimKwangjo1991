@@ -1,0 +1,38 @@
+====258
+
+4.2.44 -am [am]
+
+	Ping	Shan	Qu	Ru [-ʔ]
+vam	凡帆氾	範范犯	梵汎泛氾	-
+tam	耽眈聃擔湛	膽	擔	-
+t`am	貪探	毯	探	-
+dam	覃潭曇譚談	啖憺	淡澹憺啖	-
+	痰澹			
+nam	南男楠	湳	-	-
+lam	藍嵐籃襤婪籃	覽攬欖	濫纜	-
+tsam	簪蔘喒	-	蔘	-
+ts`am	參	慘	參	-
+dzam	蠶	-	暫	-
+sam	三	-	三	-
+tʂam	-	斬	站蘸	-
+tʂ`am	攙	-	懺	-
+dʐam	讒慙饞	-	賺	-
+ʂam	衫杉芟	-	-	-
+kam	甘柑	感敢橄	紺	-
+k`am	堪龕	坎砍	瞰磡	-
+ŋam	-	頷	-	-
+ʔam	俺庵菴唵諳	-	暗闇	-
+xam	憨	-	-	-
+ʏam	含函涵	憾撼頷	憾含	-
+
+	The ending /-m/ has PR variant /-n/. This is faithfully attested in
+PR, CPR and RR without an exception. The initial /ŋ/ is not distinct in
+PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+簪¹⁾	ping	tsam	tsan	tsan	tʂɨn	tʂɨn	tsan¹
+喒	ping 	tsam	tsan	tsa(ping),tsa(ru)	tsaʔ	tsa	tsa²
+				tsan(shang)			tsan²
+頷	shang 	ŋam	an	-	-	-	xan⁴
+
+	1. This word is also listed under SR *ping* /tʂɨm/.

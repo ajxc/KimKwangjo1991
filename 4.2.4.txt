@@ -1,0 +1,46 @@
+====170
+
+4.2.4 -jwɨ [ju]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+njwɨ	拏	女	女	-
+ljwɨ	閭蘆廬驢慮	侶呂旅縷褸	慮濾錄屢	律率
+	婁鏤瘻臚			
+tsjwɨ	且疽諏蛆苴睢	沮咀	沮足	足蹙蹴卒
+ts`jwɨ	趨	取	娶趣	-
+dzjwɨ	-	聚且	聚	-
+sjwɨ	胥須鬚需	-	絮	夙宿粟蓿戌恤
+zjwɨ	徐	敍序緒嶼	-	續俗		
+tʂjwɨ	諸猪朱珠株	主柱紵渚煑	著註注鑄	祝粥竹竺築
+	誅蛛藷硃	褚		燭囑𡧨
+tʂ`jwɨ	樞樗	處杵楮	處絮	畜蓄觸矗黜
+				出絀
+dʐjwɨ	除儲躇廚	柱佇紵貯苧	箸住駐柱	逐軸柚妯
+ʂjwɨ	書舒輸	暑鼠黍抒	恕庶	叔束淑
+ʐjwɨ	殊銖洙	竪樹墅豎	樹署曙薯戌輸	術述
+rjwɨ	如儒茹	汝茹乳	孺乳茹	-
+kjwɨ	居拘車俱駒	擧矩枸拒	據据踞鉅句遽	鞫鞠屈橘厥菊
+k`jwɨ	區驅軀墟祛	去	去	曲麴屈
+ɡjwɨ	渠衢瞿	巨鉅距拒炬	懼具	局掘屈	
+ŋjwɨ	魚漁虞愈隅娯	語齬圄禦	御馭語寓遇	玉獄		
+ʔjwɨ	於紆迂淤	-	-	郁奧墺鬱
+				蔚慰尉熨
+xjwɨ	虛噓煦吁	許煦	煦	畜旭
+jwɨ	于盂余予餘楡	與予愈羽禹	豫預譽與喩	育欲慾浴聿
+	與譽兪逾愉諛	宇雨	諭雨羽芋裕	鷸鴪
+
+	Most retroflex and sibilant *rusheng* words, whose Middle Chinese ending
+was *-k, have PR variant /wɨʔ/, which generally agree with Modern
+Mandarin. Some *rusheng* words whose Middle Chinese ending was *-k have CPR
+variant /-jɨw/.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. This word occurrs only once in the *Pônyôk No Gôltae*. It is not
+clear why its LR and RR still retains a medial /-j-/. Is it a misprint? Or
+does it indicate that two forms, /tʂjwɨʔ/ and /tʂwɨʔ/ for 囑, coexist in
+actual speech?
+	2. Variant readings for this word such as *yangping* /tʂjɨw/ and *qu*
+/tʂjɨw/ are also noted in the general illustrations of the *No Gôltae* and
+the *Pak t`ongsa*.

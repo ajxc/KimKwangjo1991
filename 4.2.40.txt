@@ -1,0 +1,18 @@
+====252
+
+4.2.40 -waŋ [waŋ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+kwaŋ	光胱洸	廣	-	-
+k`waŋ	匡筐	-	壙曠	-
+ɡwaŋ	狂	-	-	-
+ʔwaŋ	汪	枉	-	-
+xwaŋ	荒	謊	況貺	-
+ʏwaŋ	黃璜簧皇隍	晃幌湟榥恍	-	-
+	徨遑凰蝗惶			
+waŋ	王	往	旺王	-
+
+Words	Tone	PR	CPR	LR	RR	Mo.M
+況	qu	xwaŋ	xjwaŋ	k`waŋ	-	-	k`waŋ⁴
+貺	qu	xwaŋ	xjwaŋ	-	-	-	k`waŋ⁴
+

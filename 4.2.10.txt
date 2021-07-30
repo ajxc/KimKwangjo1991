@@ -1,0 +1,26 @@
+====185
+
+4.2.10 -ja [ja]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+kja	嘉佳加家袈	賈假	駕價假嫁架	桔介挾夾俠
+	駕痂迦		稼	甲鉀胛
+k`ja	-	-	髂	恰搯
+ɡja	伽	-	-	-
+ŋja	牙芽衙涯崖	雅	訝迓	蘖𡾹
+ʔja	鴉丫	啞	亞	軋押壓鴨閘
+xja	鰕	-	嚇	瞎
+ʏja	遐霞蝦瑕	下夏廈	下夏暇	轄洽陜狹峽
+				狎匣
+
+The initial /ŋ/ is not distinct in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+迦	ping	kja,kje	-	-	-	-	tɕja¹
+伽	ping	ɡja	-	ɡje	-	-	tɕja¹,tɕ`je²
+牙衙	ping	ŋja	ja	-	ja	ja	ja²
+涯	ping	ŋja	ja	-	aj	aj	ja²
+芽崖雅訝迓	-	ŋja	ja	-	-	-	ja²〓³〓⁴
+
+	1. The two words 涯, 崖 are also listed under SR *ping* /jaj/ with CPR
+/aj/ and SR *ping* /jɨ/.

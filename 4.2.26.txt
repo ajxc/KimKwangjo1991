@@ -1,0 +1,38 @@
+====221
+
+4.2.26 -jɨn [in]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pjɨn	賓濱彬贇檳	稟	殯	-
+p`jɨn	-	品	-	-
+bjɨn	頻貧	牝	-	-
+mjɨn	民緡旻閔	泯愍閔憫敏	-	-
+njɨn	紉	-	-	-
+ljɨn	隣麟鱗燐	燐	吝燐藺	-
+tsjɨn	津璡	盡儘	晉縉進	-
+ts`jɨn	親	-	親	-
+dzjɨn	秦	盡	盡藎	-
+sjɨn	辛新薪	-	信訊迅	-
+zjɨn	-	-	燼	-
+tʂjɨn	眞珍桭畛甄鎭	軫診疹畛	震振賑鎭塡	-
+tʂ`jɨn	瞋	-	疹趁	-
+dʐjɨn	陳塵塡臣	-	陣診	-
+ʂjɨn	申伸呻紳身娠	-	-	-
+ʐjɨn	辰晨神	蜃腎	愼	-
+rjɨn	人仁	忍	刃認	-
+kjɨn	巾斤筋	謹槿緊	-	-
+k`jɨn	-	螼	-	-
+ɡjɨn	勤懃芹	近	僅覲饉近斤	-
+ŋjɨn	銀誾寅垠	听	憖	-
+ʔjɨn	因茵湮殷慇姻	隱殷	印隱	-
+xjɨn	欣昕炘	-	-	-
+jɨn	-	引蚓縯演尹	靷孕胤	-
+
+The initial /ŋ/ is not distinct in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. This PR is based on the *Sasông t`onghae*. The *Hongmu chông'un yôkhun*
+did not record the PIR /jɨn/ for *ping* words but did record it for *shang* and
+*qu* words.

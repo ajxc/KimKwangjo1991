@@ -1,0 +1,58 @@
+====189
+
+4.2.12 -ɨj [ɨj]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pɨj	-	-	-	百伯佰迫柏
+				檗擘北
+p`ɨj	-	-	-	拍珀魄覇
+bɨj	-	-	-	白帛舶匐蔔
+mɨj	-	-	-	陌佰百貊麥
+				麥黙墨冒脈
+tɨj	-	-	-	德得
+t`ɨj	-	-	-	慝貸忒
+dɨj	-	-	-	特貸
+lɨj	-	-	-	勒肋
+tsɨj	-	-	-	𫦣
+dzɨj	-	-	-	賊
+sɨj	-	-	-	塞
+tʂɨj	-	-	-	側仄摘責謫窄
+tʂ`ɨj	-	-	-	測惻策冊栅拆
+dʐɨj	-	-	-	宅澤擇翟
+ʂɨj	-	-	-	色嗇穡索濇
+ʐɨj	-	-	-	𦣱
+kɨj	-	-	-	格隔膈革
+k`ɨj	-	-	-	克剋刻客
+ʔɨj	-	-	-	厄扼軛
+xɨj	-	-	-	黑赫
+ʏɨj	-	-	-	核覈翮
+ɨj	-	-	-	額
+
+	The note for this SR final says: "All the *rusheng* words are written
+with *aj* in transcriptions of the Yuan 元 period. The 'Mongol Rimes' also
+follows *aj*. In CPR, all are pronounced /-ɔ/; among them are some readings
+of /-aj/ and /-je/." The following is the list of individually documented
+variant readings.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. Sixteen of a total of eighteen occurrences are transcribed with
+/pɔ/.
+	2.	Of a total of three occurrences, two are transcribed with /majʔ/,
+and once, with /mɨjʔ/.
+	3. Of a total of two occurrences, one is transcribed with /mɨj/, and
+once, with /mɔ/.
+	4. Of a total of nine occurrences, one is /tʂje/.
+	5. Of a total of three occurrences, two are transcribed with /tʂɔ/, and
+one, with /tʂaj/.
+	6. Of a total of two occurrences, one is /tʂaj/, and the other, /tʂɔ/.
+	7. This word given with SR *ru* /ʂɨj/ and CPR /ʂajʔ/ is glossed "to
+seek"; however, the same graph is also listed under SR *ru* /sawʔ/ with the
+gloss of "string".
+	8. Of a total of fifty-eight occurrences, five are transcribed with 커
+*k`e* /k`ɔ/ but these may be misprints for 켜 *k`je* /k`je/.
+	9. Of a total of twenty-four occurrences, fifteen are /xɔ/, and nine,
+/xɨj/. Curiously, out of a total of ten appearances in the *Pônyôk Pak
+t`ongsa* are nine /xɨj/'s.
+	10. This word is also listed under SR *ru* /ʏwɨ/ with *ping* CPR /ʏwɨ/.

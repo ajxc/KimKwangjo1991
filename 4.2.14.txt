@@ -1,0 +1,22 @@
+====174
+
+4.2.14 -jwɨj [juj], [yj]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+kjwɨj	-	-	-	湨鵙
+k`jwɨj	-	-	-	闃
+ŋjwɨj	-	-	-	役疫域
+xjwɨj	-	-	-	洫
+
+	This final /jwɨj/ may have already disappeared and its alternative
+variants /jwɨ/ or /jɨ/ have been prevalent in actual speech. For
+high-frequency words such as 役, 疫 and 域, a variant final /jɨ/ was
+recorded in the *Yôkhûn* and *T`onghae*. The initial /ŋ/ is not distinct in the
+varinat readings.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+役疫	ru	ŋjwɨj	jɨʔ¹⁾	jɨʔ	-	-	jɨ⁴
+域	ru	ŋjwɨj²⁾	jɨʔ²⁾	jɨʔ	-	-	jwɨ⁴
+
+	1. This PR appears only in the *Hongmu chông'un yôkhun*.
+	2. The same as the previous note.

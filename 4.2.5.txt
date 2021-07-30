@@ -1,0 +1,40 @@
+====173
+
+4.2.5 -je [je]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pje	-	-	-	鼈別
+p`je	-	-	-	撇
+bje	-	-	-	別批
+mje	乜	乜	-	滅蔑
+tje	爹	-	-	牒疊蝶諜
+t`je	-	-	-	鐵帖貼怗
+dje	-	-	-	姪凸跌迭
+nje	-	-	-	捏捻鑷聶
+lje	-	-	-	列烈裂戾獵
+tsje	嗟	姐	借	節接浹楫
+ts`je	-	且	-	切竊妾
+dzje	-	-	-	截捷接
+sje	些	寫瀉	瀉卸	屑薛契洩楔
+				褻燮
+zje	邪斜	-	謝藉	-
+tʂje	遮	者	這蔗炙	浙哲折摺輒讋
+tʂ`je	車	扯	-	徹撤
+dʐje	-	-	-	轍撤澈
+ʂje	奢賒	捨	舍赦	設攝葉涉
+ʐje	蛇	社	射麝貰	舌折
+rje	-	惹若	-	熱
+kje	茄	-	-	結潔拮揭孑
+				頰鋏劫
+k`je	-	-	-	契揭偈怯
+ɡje	-	-	-	傑桀竭揭
+ŋje	-	-	-	櫱蘖業齧孽
+ʔje	-	-	-	謁閼咽噎
+xje	-	-	-	歇蝎
+ʏje	-	-	-	挾俠脅協
+je	耶爺椰邪	野也冶	夜射	葉曄厭靨
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+藉	qu	zje	-	dzje	-	-	tɕje⁴
+業	ru	ŋje	-	ŋjeʔ	-	-	je⁴
+

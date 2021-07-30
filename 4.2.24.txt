@@ -1,0 +1,19 @@
+====219
+
+4.2.24 -waw [waw]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+tʂwaw	-	-	-	捉琢卓啄涿
+dʐwaw	-	-	-	濁濯擢鐲
+kwaw	-	-	-	郭槨
+k`waw	-	-	-	廓擴
+ʔwaw	-	-	-	籰
+xwaw	-	-	-	藿霍
+ʏwaw	-	-	-	穫鑊
+
+	The note for this final in the *Sasông t`onghae* says: "The *rusheng*
+words are all pronounced *o* /wɔ/ in CPR."
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+捉卓涿	ru	tʂwaw	-	-	tʂwawʔ	tʂwɔ	tʂwe¹
+籰	ru	ʔwaw	-	ʔjwɔ	-	-	jwe⁴

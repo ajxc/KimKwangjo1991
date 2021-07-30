@@ -1,0 +1,50 @@
+====247
+
+4.2.38 -aŋ [aŋ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+paŋ	邦榜幇彭	榜	謗	-
+p`aŋ	滂磅旁	-	肨	-
+baŋ	旁傍彷膀龐	蚌棒	傍	-
+maŋ	茫忙邙	莽	-	-
+faŋ	方坊肪妨芳枋	昉倣紡	訪舫放防	-
+vaŋ	房防坊	-	-	-
+ɱaŋ	亡忘芒	網罔輞	妄忘望	-
+taŋ	當	黨	當擋	-
+t`aŋ	湯	倘躺	湯帑	-
+daŋ	唐塘糖棠堂螳	蕩	宕蕩	-
+naŋ	囊	曩	-	-
+laŋ	郞廊浪狼琅	朗浪	浪狼㫰	-
+	瑯			
+tsaŋ	臧贓	髒	葬	-
+ts`aŋ	倉蒼滄	蒼	-	-
+dzaŋ	藏	奘	藏臟奘	-
+saŋ	桑喪	嗓	喪	-
+tʂaŋ	莊裝粧樁	-	壯撞	-
+tʂ`aŋ	瘡創窓	-	創愴滄	-
+dʐaŋ	牀床鐘撞	-	狀	-
+ʂaŋ	霜孀雙	爽	-	-
+kaŋ	岡剛綱鋼亢	-	-	-
+	缸堈扛			
+k`aŋ	康糠	慷	抗亢伉炕	-
+ŋaŋ	昻	仰	仰釀	-
+ʔaŋ	-	泱坱	盎	-
+ʏaŋ	杭航行桁	沆	行桁	-
+
+	All the retroflex words have a labialized PR variant /-waŋ/, which
+agrees with Modern Mandarin. The initial /ɱ/ is still distinct from /w/ in
+LR which represents the actual speech of the mid-fifteenth century, but 
+merged into /w/ in RR which reflects the actual speech of the 
+early-sixteenth century¹⁾.
+
+Words	Tone	SR	PR	CPR	LR	RR Mo.M
+{}
+
+	1. For details, see Chapter Three 3.3.2.
+	2. This transcription is recorded as "another pronunciation" only in
+the *Sasông t`onghae*.
+	3. This word is registered in the form of the graph 踢 in the *Sasông
+t`onghae*.
+	4. This *qusheng* PR is based on the *Hongmu chông'un *yô*khun*. The *Sasông
+t`onghae* failed to give this PR to the *qusheng* words.
+	5. The PR in the *Hongmu chông'un Yoyôkhun* is /ŋjaŋ/.

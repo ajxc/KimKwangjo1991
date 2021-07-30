@@ -1,0 +1,54 @@
+====154
+
+4.2 Syllabary of Standard and Variant Readings
+
+	Standard		Variant		
+1.	ɨ	ɨʔ	-	-	-
+2.	jɨ	jɨʔ	ɨj	ɨ	-
+3.	wɨ	wɨʔ	ɨw	wɔʔ	jɨw(ʔ)
+4.	jwɨ	jwɨʔ	wɨʔ	jɨw(ʔ)	-
+5.	je	jeʔ	-	-	-
+6.	jwe	jweʔ	-	-	-
+7.	ɔ	ɔʔ	wɔ	a	-
+8.	wɔ	wɔʔ	-	-	-
+9.	a	aʔ	-	-	-
+10.	ja	jaʔ	-	-	-
+11.	wa	waʔ	-	-	-
+12.	ɨjʔ	-	ajʔ	jeʔ	ɔʔ
+13.	wɨj	wɨjʔ	ɨj	waj	wɔʔ
+14.	jwɨjʔ	-	jɨʔ	jwɨʔ	-
+15.	jej	-	jɨ	ɨj	-
+16.	aj	-	-	-	-
+17.	jaj	-	jej	aj	-
+18.	waj	-	-	-	-
+19.	ɨw	-	-	-	-
+20.	jɨw	-	-	-	-
+21.	jew	-	jaw	-	-
+22.	aw	awʔ	ɔʔ	wɔʔ	wawʔ
+23.	jaw	jawʔ	ɔʔ	jwɔʔ	-
+24.	wawʔ	-	wɔʔ	-	-
+25.	ɨn	-	-	-	-
+26.	jɨn	-	-	-	-
+27.	wɨn	-	ɨn	-	-
+28.	jwɨn	-	-	-	-
+29.	jen	-	-	-	-
+30.	jwen	-	-	-	-
+31.	ɔn	-	an	-	-
+32.	wɔn	-	ɔn	-	-
+33.	an	-	-	-	-
+34.	jan	-	jen	-	-
+35.	wan	-	an	-	-
+36.	wɨn	-	ɨŋ	-	-
+37.	jwɨŋ	-	wɨŋ	-	-
+38.	aŋ	-	waŋ	-	-
+39.	jaŋ	-	-	-	-
+40.	waŋ	-	-	-	-
+41.	ɨm	-	ɨn	-	-
+42.	jɨm	-	jɨn	-	-
+43.	jem	-	jen	-	-
+44.	am	-	an	-	-
+45.	jam	-	(jan)	jen	-
+46.	ɨjŋ	-	jɨŋ	ɨŋ	-
+47.	jɨjng	-	jɨŋ	ɨŋ	-
+48.	wɨjŋ	-	wɨŋ	ɨŋ	-
+49.	jwɨjŋ	-	jɨŋ	jwɨŋ	-

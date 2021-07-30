@@ -1,0 +1,16 @@
+====253
+
+4.2.41 -ɨm [ɨm]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+tsɨm	-	怎	-	-
+tʂɨm	簪	-	譖	-
+tʂ`ɨm	-	-	識	-
+dʐɨm	岑	-	-	-
+ʂɨm	森參蔘	-	渗	-
+
+	The ending /-m/ has PR variant /-n/. This is faithfully reflected in
+PR, CPR, LR and RR except for 怎.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+怎	shang	tsɨm	-	-	tsɨm	tsɨm	tsɨn³

@@ -1,0 +1,43 @@
+====187
+
+4.2.11 -wa [wa]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+f	-	-	-	髮發
+v	-	-	-	伐筏罰閥
+ɱ	-	-	-	襪
+n	-	-	-	豽
+tʂ	髽撾	-	-	-
+ʂ	-	耍	唆	刷
+k	瓜蝸	寡	卦掛	刮
+k`	誇	-	跨	-
+ŋ	-	瓦	瓦凹	-
+ʔ	娃蛙窪	-	-	穵𥤺
+x	花華	-	化	-
+ʏ	華譁划	踝	華畵話	猾滑
+
+	The labial words have PR /-a(ʔ)/. The initial /ŋ/ is not distinct from
+/∅/ in PR. And /ɱwa/ is not distinct from /wa/ in CPR and RR. For details,
+see Chapter Three 3.3.2 "Distinctiveness of the Initial [ɱ]".
+
+====188
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+蝸	ping	kwa	wa	-	-	-	we¹
+瓦	shang	ŋwa	wa	-	wa	wa	wa³
+瓦	qu	ŋwa	wa	-	-	-	wa⁴
+凹¹⁾	qu	ŋwa	wa	-	ʔwaʔ	wa	wa¹,aw¹,jaw¹
+譁	ping	ʏwa	xwa(ping)	-	-	-	xwa¹〓²
+踝	shang	ʏwa	ɡwa	kwɔ	ʏwɔ	kwɔ	kwe³
+髮發	ru	fwa	faʔ	-	faʔ	faʔ	fa⁴〓¹
+罰	ru	vwa	vaʔ	-	vaʔ	vaʔ	fa²
+伐筏閥	ru	vwa	vaʔ	-	-	-	fa²
+襪	ru	ɱwa²⁾	ɱaʔ	wa	ɱaʔ	wa	wa⁴
+
+	1. This word is also listed under *ru* SR /ʔa/ with *shang* CPR /ʔwa/ and
+*ping* SR /ʔjaw/ with *shang* CPR /ʔwa/.
+	2. The SR for this word in the *Hongmu chông'un yôkhun* is *ɱat* with PR
+*ɱaʔ* /ɱaʔ/. Because of the sound change, ɱaʔ > wa(ʔ), by Ch`we Sejin's
+times, he changed the SR from *ɱat* to *ɱoa*. Probably, the transcription *ɱoa*
+in SR and CPR is a compromise between its original initial /ɱ/ and its
+actual contemporary pronunciation [wa]. Note that its RR is *∅oa* /wa/.

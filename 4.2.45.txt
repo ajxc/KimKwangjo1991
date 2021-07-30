@@ -1,0 +1,38 @@
+====260
+
+4.2.45 -jam [jam]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+kjam	監緘	減鹼	鑑監	-
+k`jam	嵌	-	-	-
+ŋjam	巖	-	-	-
+ʔjam	-	黯	-	-
+xjam	-	喊	-	-
+ʏjam	咸鹹函銜	檻艦	陷饀	-
+
+	The note for the final in the *Sasông t`onghae* says that in the current
+popular reading, some words in *ping*, *shang* or *qu* tone follow /-an/, some,
+/-jen/ and some, the original sound (i.e., /-jan/). The *Hongmu chông'un
+yôkhun* gives the note that PR for this final is /-jan/. However, /-jen/ is
+prevailing in CPR, LR and RR except for two words 嵌 and 饀. This means
+that /-jam/ evolved into /-jan/ by the mid-fifteenth century and then
+probably further into /-jen/ in the early sixteenth century. The initial
+/ŋ/ is not distinct in PR. The following is the list of especially recorded
+PR's, CPR's, LR's and RR's in the *Sasông t`onghae* and the *Pônyôk*.
+
+====261
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+監減鑑	-	kjam	-	kjen	kjen	kjen	tɕjan¹〓³〓⁴
+緘監鹼	-	kjam	-	kjen	-	-	tɕjan¹〓³〓⁴
+嵌	ping	k`jam	-	-	k`jan,k`jen¹⁾	k`jen	tɕ`jan¹
+巖	ping	ŋjam	jan	-	-	-	jan²
+喊	shang	xjam	-	xan	-	-	xan³
+鹹	ping	ʏjam	-	-	ʏjen	xjen	ɕjan²
+饀	qu	ʏjam	-	-	ʏjam²⁾	xjen	ɕjan⁴
+
+	1. Of a total of five occurrences, /k`jan/ occupies four, and /k`jen/,
+one.
+	2. This word occurrs only once. Is it is misprint for /ʏjan/ or an
+evidence of synchronic coexistence of /-m/ and /-n/ endings in the actual
+speech of the mid-fifteenth century?

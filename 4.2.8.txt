@@ -1,0 +1,46 @@
+====181
+
+4.2.8 -wɔ [wɔ], [wo], [o]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pwɔ	波	跛簸	播簸	撥鉢跋
+p`wɔ	頗坡玻	頗	破	潑醱
+bwɔ	婆	-	婆薄	跋拔魃
+vwɔ	-	-	-	-
+mwɔ	摩磨魔	麽	磨	末沫抹靺
+twɔ	-	-	-	掇
+t`wɔ	-	-	-	脫
+dwɔ	-	-	-	脫奪
+lwɔ	-	-	-	捋
+tswɔ	-	-	-	撮
+ts`wɔ	-	-	-	撮
+dzwɔ	銼	坐	坐座	-
+swɔ	-	鎖瑣	-	-
+kwɔ	戈過鍋	果裹	過	括适
+k`wɔ	科窠	顆	課	闊
+ŋwɔ	訛	-	-	-
+ʔwɔ	渦窩倭	-	汚	斡
+xwɔ	-	火	貨	豁
+ʏwɔ	和禾	禍夥	-	活括
+
+====182
+
+	The note for the the non-*rusheng* final *we* /-wɔ/ says: "The current
+practice follows *o* /wɔ/ regardless of initials". This transcriptional
+change is a reflection of Ch`we Sejin's new phonetic interpretation on
+Middle Mandarin /wɔ/. Hence, it has nothing to do with a phonemic change of
+Middle Mandarin /wɔ/. The LR follows -*we* and the RR, -*o*, including the *ru*
+words. The initial /ŋ/ is not distinct in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+麽	ping	mwɔ	ma	-	ma	ma	ma⁵
+窠	ping	k`wɔ	-	ʔwɔ	-	-	k`e¹
+訛	ping	ŋwɔ	wɔ	-	-	-	e²
+抹	ru	mwɔ	-	maʔ	mwɔʔ¹⁾	mwɔ	mwe³〓⁴
+斡	ru	ʔwɔ	-	ʔwaʔ²⁾	·ʔwaʔ	:wa	we⁴
+
+
+	1. Of a total of five occurrences, four of them are LR /mwɔʔ/ and RR
+/mwɔ/; one, LR /maʔ/ and RR /ma/.
+	2. The *No Pak chimnam* gives :*wa* /wa/ (voiced *ping*) as a popular
+reading.

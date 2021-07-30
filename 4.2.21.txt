@@ -1,0 +1,48 @@
+====210
+
+4.2.21 -jew [jew]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pjew	飄標飇	表	俵	-
+p`jew	漂飄票	鰾膘	剽漂	-
+bjew	瓢	-	票嫖	-
+mjew	藟描	渺秒藐	妙廟	-
+tjew	貂雕彫凋刁	-	弔釣	-
+t`jew	條挑	挑	眺跳	-
+djew	跳調條苕	窕掉	調掉糶	-
+njew	-	鳥	溺尿	-
+ljew	聊僚遼料廖	了燎瞭	料療廖	-
+	撩寥	-	-	-
+tsjew	焦蕉椒	湫剿	-	-
+ts`jew	鍬	悄	-	-
+dzjew	樵憔瞧	-	-	-
+sjew	蕭簫宵消逍	篠諛小	嘯笑肖鞘	-
+	硝霄			
+tʂjew	招釗朝	沼	照詔	-
+tʂ`jew	超	-	-	-
+@dzjew dʐjew@	潮晁朝	趙肇兆	召	-
+ʂjew	燒	少	少燒	-
+ʐjew	韶昭	紹	邵	-
+rjew	饒橈	擾繞	繼饒	-
+kjew	驕驍梟嬌澆	皎矯繳	叫	-
+k`jew	驕	-	竅	-
+ɡjew	橋喬僑蕎招翹	糾	轎嶠	-
+ŋjew	-	-	澆	-
+ʔjew	要腰邀妖夭么	杳窈夭舀皛	要約	-
+xjew	囂枵鴞	曉	-	-
+jew	堯僥遙搖瑤	-	燿曜姚耀	-
+	謠陶姚窰			
+
+	This final /-jew/ must have evolved into /-jaw/ in contemporary actual
+speech. The *Hongmu chông'un yôkhun* and the *Sasông t`onghae*, as a whole,
+give PR /-jaw/ for this final in their notes. The following list exhausts
+all the variant readings indivudlally recorded.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+膘	shang	p`jew	-	pjaw	-	-	pjaw¹
+鰾	shang	p`jew	-	bjaw	-	-	pjaw⁴
+韶	ping	ʐjew	-	ʐjew¹⁾	-	-	ʂaw²
+皛	shang	ʔjew	-	ʏjew	-	-	ɕjaw³,tɕjaw³
+
+	1. I do not know why the *Sasong t`onghae* gives CPR final /-jew/ for
+this 韶 and the next 皛.

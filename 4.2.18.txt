@@ -1,0 +1,18 @@
+====205
+
+4.2.18 -waj [waj]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+kwaj	乖	拐	怪獪夬	-
+k`waj	-	-	快會塊蒯筷	-
+ŋwaj	-	-	外歪	-
+ʏwaj	懷淮槐	-	壞	-
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.m
+塊	qu	k`wai	-	k`waj	k`waj	k`waj	k`waj⁴
+外	qu	ŋwai	waj¹⁾	-	waj	waj	waj⁴
+歪	qu	ŋwai	-	-	ŋwai,waj²⁾	waj	waj⁴
+
+	1. This PR is only documented in the *Sasông t`onghae`.
+	2. Of a total of three occurrences, /ŋwaj/ occurrs twice, and /waj/,
+once.

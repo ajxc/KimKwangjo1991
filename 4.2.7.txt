@@ -1,0 +1,43 @@
+====177
+
+4.2.7 -ɔ [ɔ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+tɔ	多	朶躱	刴	-
+t`ɔ	他拖	妥楕惰墮垜	唾拖	-
+dɔ	駝馱陀	拖舵	馱大惰	-
+nɔ	那儺挪	那娜	奈那懦糯	-
+lɔ	羅蘿螺鑼騾	邏裸	邏摞	-
+tsɔ	-	左	佐作	-
+ts`ɔ	蹉磋搓	-	銼	-
+dzɔ	鹺痤	-	挫莝	-
+sɔ	娑莎梭蓑唆	-	些	-
+kɔ	歌哥柯	舸	箇個	葛割
+k`ɔ	珂軻	可軻坷	軻坷	渴
+ŋɔ	莪娥俄蛾鵝	我	餓臥	-
+ʔɔ	阿疴	-	-	閼
+xɔ	訶	-	荷	喝
+ʏɔ	何荷河苛	荷	賀荷和	曷褐鞨蝎
+
+	The note for the non-*rusheng* final says: "The middle sound (i.e., the
+final without an ending) of all the words belonging to this final are read
+
+====178
+
+*o* in the Mongol Rimes. In the current practice, some are read *o* /wɔ/ and
+some, *e* /ɔ/. Therefore, now, I attach 'contemporary reading' to each word."
+The initial /ŋ/ is not distinct in the variant readings.
+
+Words	Tone	SR	pR	CPR	LR	RR	Mo.M
+{}
+
+	1. /twɔ/ occurrs only once out of a total of several tens occurrences.
+	2. /twɔ/ occurrs only once out of five occurrences.
+	3. The note says: "The current practice follows this reading". The
+word 拖 is also listed under SR *shang* /dɔ/ with CPR /dwɔ/.
+	4. This word is also listed under SR *qu* /daj/ with PR /da/.
+	5. /ŋɔ/ occurrs only once as a LR.
+	6. The *No Pak chimnam* also gives PR /ʔa/ for this word.
+	7. This word is also listed under SR *ping* /ʏwɔ/. The *No Pak chimnam*
+gives the note for 和, saying that its *pingsheng* reading means "harmonious"
+and its *qusheng*, "and, with".

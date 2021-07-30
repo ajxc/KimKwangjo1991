@@ -1,0 +1,38 @@
+====234
+
+4.2.32 -wɔn [wɔn]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pwɔn	般搬	-	半絆	-
+p`wɔn	潘拌	-	判伴	-
+bwɔn	盤瘢槃磐磻蟠	伴拌	畔叛	-
+mwɔn	瞞饅曼漫蔓鰻	滿曼	漫幔	-
+	鞔			
+twɔn	端	短斷	鍛斷	-
+t`wɔn	湍	-	-	-
+dwɔn	團敦	斷	段團彖	-
+nwɔn	-	暖	-	-
+lwɔn	鸞	卵	亂	-
+tswɔn	鑽	纂纘	鑽	-
+ts`wɔn	-	-	竄攛㸑	-
+dzwɔn	攅櫕	-	攅	-
+swɔn	酸	算	蒜算	-
+kwɔn	官冠權觀莞菅	管琯館	貫冠觀灌瓘	-
+			館罐	
+k`wɔn	寬	款	-	-
+ŋwɔn	-	-	玩翫	-
+ʔwɔn	豌	椀	-	-
+xwɔn	歡驩	-	喚奐煥渙	-
+ʏwɔn	桓洹完丸紈	晥緩莞浣澣	換	-
+
+	All the labial words have a delabialized variant final /-ɔn/ in PR, LR
+and RR. The initial /ŋ/ is not distinct in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. This word is listed under SR *qu* /ts`ɔn/ with PR /ts`wɔn/ in the
+*Hongmu chông'un yôkhun*. The *Sasông t`onghae* gives an note for the change of
+SR into /ts`wɔn/, which was introduced and discussed in Chapter Three
+3.2.3.
+	2. These LR and RR transcriptions are for 竄攛.

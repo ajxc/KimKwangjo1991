@@ -1,0 +1,41 @@
+====208
+
+4.2.20 -jɨw [iw]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pjɨw	彪	-	-	-
+bjɨw	滮	-	-	-
+mjɨw	繆	-	繆謬	-
+tjɨw	丢	-	-	-
+njɨw	-	紐扭	紐	-
+ljɨw	留榴瘤流瑠	柳瀏	瀏留廖	-
+	劉旒硫琉			
+tsjɨw	湫揫	酒	僦	-
+ts`jɨw	秋鰍	-	-	-
+dzjɨw	酋囚	-	就	-
+sjɨw	脩修羞	-	秀繡銹宿琇	-
+zjɨw	-	-	岫袖	-
+tʂjɨw	周週州洲舟	帚肘	祝呪晝	-
+tʂ`jɨw	抽	醜丑杻	臭	-
+dʐjɨw	疇籌紬綢稠	紂	宙酎胄紬	-
+	酬讐			
+ʂjɨw	收	首手守	狩獸守首改	-
+ʐjɨw	-	受綬壽授	授壽綬售	-
+rjɨw	柔蹂揉	蹂	蹂肉	-
+kjɨw	鳩⿵門龟	九久玖灸糾韭	救究厩灸	-
+k`jɨw	丘區	-	-	-
+ɡjɨw	求球毬逑仇銶	臼舅咎	舊柩	-
+ŋjɨw	牛	-	-	-
+ʔjɨw	憂優幽悠攸	-	幼	-
+xjɨw	休	朽	畜嗅	-
+jɨw	由猶油游遊	酉誘有友右	猶佑右祐又	-
+	尤郵	莠	柚宥	-
+
+Words	Tones	SR	PR	CPR	LR	RR	Mo.M
+廖	qu	ljɨw	ljaw	-	-	-	ljaw⁴
+灸	qu	kjɨw	-	shang	:kjɨw	kjɨw	tɕjɨw³
+牛¹⁾	ping	ŋjɨw	njɨw²⁾	-	njɨw	:njɨw	njɨw²
+右	shang	jɨw	-	qu	:jɨw	·jɨw	jɨw⁴
+
+	1. The *Hongmu chông'un yôkhun* lists this word under SR *ping* /jɨw/.
+	2. This PR is documented only in the *Sasông t`onghae*.

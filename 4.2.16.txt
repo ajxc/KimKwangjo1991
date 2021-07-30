@@ -1,0 +1,38 @@
+====201
+
+4.2.16 -aj [aj]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+paj	-	擺罷	拜敗	-
+p`aj	-	-	派	-
+baj	排俳牌	-	敗唄稗	-
+maj	埋	買	賣邁	-
+taj		歹	帶戴	-
+t`aj	胎台	-	泰太汰貸態	-
+daj	臺擡跆	待逮殆怠	代黛袋玳待大	-
+naj	能	乃奶	奈耐	-
+laj	來萊	-	賴來癩	-
+tsaj	哉栽災	宰載縡	再載栽裁縡	-
+ts`aj	猜	采採彩綵	菜采蔡	-
+dzaj	裁才材財纔	在	在	-
+saj	腮	-	塞賽	-
+tʂaj	齋	-	債祭	-
+tʂ`aj	差叉釵	跐	差衩	-
+dʐaj	豺柴	豕	餈寨豕	-
+ʂaj	篩	灑	煞曬	-
+kaj	該垓	改	蓋漑槪丐	-
+k`aj	開	愷鎧凱	慨咳鎧	-
+ŋaj	獃	-	碍艾	-
+ʔaj	哀埃挨唉	靄	愛藹靄	-
+xaj	-	海	-	-
+ʏaj	孩咳	亥駭夥	害	-
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. LR /daj/ and RR /taj/ appear only once when transcribing the place
+name, 大寧.
+	2. This word is also listed under SR *ping* /tʂ`a/.
+	3. This PR appears only in the *Sasông t`onghae*.
+	4. This word is also listed under SR *shang* /ʏwɔ/.
+

@@ -1,0 +1,37 @@
+====240
+
+4.2.35 -wan [wan]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+fwan	飜幡藩蕃番反	返反飯阪坂	販	-
+vwan	煩樊蕃燔繁礬	-	飯	-
+ɱwan	-	晚輓挽娩	萬蔓	-
+tʂwan	跧	-	-	-
+tʂ`wan	-	-	簒	-
+ʂwan	閂栓	-	涮	-
+kwan	關鰥	-	慣串	-
+ŋwan	頑	-	-	-
+ʔwan	彎灣	-	腕綰	-
+ʏwan	還環	-	患宦環幻	-
+
+	The labiodental words except for /ɱ/ have the delabialized variant PR
+/-an/. SR /ɱwan/ in the mid-fifteenth century must have already evolved
+into /wan/ in actual speech by the early sixteenth century. Viewed from the
+PR's of other labiodental words, the process of change would be as follows:
+ɱwan > *ɱan > wan. Probably Ch`we Sejin kept SR and LR *ɱoan* as a compromise
+between its original initial /ɱ/ and its actual phonemic value /wan/. If
+/ɱwan/ or /ɱan/ still had existed in the early sixteenth century, its RR
+
+====241
+
+also should have been *ɱoan* or *ɱan* because the RR transcription
+differentiates /ɱ/ from /w/: however, its RR is *∅oan*. The initial /ŋ/ is
+not distinct in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. The *No Pak chimnam* gives a note for this word, saying that 還 in
+phrases such as '還有' and '還要' may be pronounced like the reading of 孩
+(SR *ping* /ʏaj/).
+	2. This word occurrs only once. /ɱwan/ must be a misprint for /ʔwan/.

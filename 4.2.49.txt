@@ -1,0 +1,30 @@
+====271
+
+4.2.49 -jwɨjŋ [jujŋ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+kjwɨjŋ	坰絅扃	環炅	-	-
+k`jwɨjŋ	傾	頃	-	-
+ɡjwɨjŋ	瓊	-	-	-
+ʔjwɨjŋ	-	-	瑩	-
+xjwɨjŋ	兄	詗	詗	-
+ʏjwɨjŋ	-	逈泂炯	-	-
+jwɨjŋ	營瑩塋榮螢	永	詠泳	-
+	蠑滎			
+
+	All the words have a variant, either /-jwɨŋ/ or /-jɨŋ/, in their PR or
+CPR. We could say that the final /-jwɨjŋ/ had practically disappeared in
+actual speech by the early sixteenth century¹⁾.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+坰絅扃	ping	kjwɨjŋ	kjwɨŋ²⁾	-	-	-	tɕjwɨŋ¹
+{}
+
+	1. For details, see Chapter Three 3.4.3.
+	2. The PR for 坰絅 appears only in *Sasông t`onghae*.
+	3. The *Hongmu chông'un yôkhun* lists this word under SR /kjɨŋ/.
+	4. This PR appears only in the *Sasông t`onghae*.
+	5. The *Hongmu chông'un yôkhun* lists this words under SR /kjɨŋ/.
+	6. This PR appears only in the *Sasông t`onghae*.
+	7. This word is also listed under *ping* SR /xjwɨŋ/.
+

@@ -1,0 +1,45 @@
+====242
+
+4.2.16 -wɨŋ [uŋ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pwɨŋ	-	琫菶	-	-
+bwɨŋ	蓬逢篷	-	-	-
+mwɨŋ	蒙朦	懵𰳞	夢	-
+fwɨŋ	風楓豊封峯	捧奉	諷封	-
+	鋒烽蜂			
+vwɨŋ	馮逢縫	-	鳳俸縫	-
+twɨŋ	東冬	董懂	棟凍	-
+t`wɨŋ	通	統桶	統痛	-
+dwɨŋ	筒同銅桐童	動洞	洞動慟	-
+	瞳潼			
+nwɨŋ	農膿濃	-	齈	-
+lwɨŋ	-	-	弄	-
+tswɨŋ	宗㯶	總摠	綜糭	-
+ts`wɨŋ	聰從悤蔥囱	-	-	-
+dzwɨŋ	叢琮悰	-	鬃	-
+swɨŋ	-	-	送宋	-
+dʐwɨŋ	崇	-	-	-
+kwɨŋ	公功工攻蚣	拱鞏	貢	-
+k`wɨŋ	空	孔空	控空	-
+ʔwɨŋ	翁	-	甕	-
+xwɨŋ	烘	-	烘	-
+ʏwɨŋ	洪紅虹鴻肛	汞	哄閧	-
+
+	All the words with a initial /m/ and 篷 (SR *ping* /bwɨng/) have a
+delabialized CPR variant /-ɨŋ/, which may be considered forerunners of
+delabialization of labial words. Eventually, /-wɨŋ/ with a labial initial
+have evolved into /-ɨŋ/ in Modern Mandarin.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+篷	ping	bwɨŋ	-	bɨŋ	-	-	p`ɨŋ²
+蒙朦懵𰳞夢	-	mwɨŋ	-	mɨŋ	-	-	mɨŋ¹〓²〓³〓⁴
+奉	shang	fwɨŋ	-	-	:vwɨŋ	·fwɨŋ	fɨŋ⁴
+
+	1. This word has an interesting note: "In my humble opinion, the word
+'奉' must have had a voiced initial (i.e., /v/). Therefore, the *Guyin* 古音
+"Old Readings" lists it under the initial /v/. It is a mistake that the
+*Hongwu zengyun* placed it under the word '捧' whose initial is /f/.
+Futhermore, '奉' in a phrase '奉天殿' is read with *qusheng* in the current
+practice. Its reading in the *Zhongyuan yinyun* is the same as the reading of
+'鳳'. Now, it should be read with a voiced initial."

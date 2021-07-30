@@ -1,0 +1,46 @@
+====216
+
+4.2.23 -jaw [jaw]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+ljaw	-	-	-	略掠
+tsjaw	-	-	-	爵雀
+ts`jaw	-	-	-	鵲
+dzjaw	-	-	-	嚼
+sjaw	-	-	-	削
+tʂjaw	-	-	-	灼酌勺着著斫
+tʂ`jaw	-	-	-	綽躇
+dʐ`jaw	-	-	-	著
+ʂjaw	-	-	-	鑠爍
+ʐjaw	-	-	-	芍勺
+rjaw	-	-	-	若弱蒻箬
+kjaw	交蛟郊敎膠	狡攪絞鉸	敎覺校較酵窖	覺角脚
+k`jaw	敲	巧	敲	殼𢡱確却
+ɡjaw	-	-	-	醵
+ŋjaw	-	咬	樂	-
+ʔjaw	凹坳	拗	拗	渥握葯約
+xjaw	哮烋	-	孝	謔
+ʏjaw	爻肴淆	-	效校	學確
+jaw	-	-	-	藥蹄嶽岳
+				樂鑰虐瘧
+
+	The note for the *rusheng* final in the *Sasông t`onghae* says: "All (the
+words) are pronounced /-jwɔ/ in the current practice." LR generally
+reflects /-jawʔ/ which may be said to be an earleir form of the Modern
+Mandarin colloquial readings, /-jaw/ or /-aw/, but RR, /-jwɔ/, an earlier
+form of the Modern Mandarin literary readings /-jwe/ or /-we/. The initial
+/ŋ/ is not distinct in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. This word is also registered under SR *ru* /ʔa/ with CPR *shang* /ʔwa/
+and SR *qu* /ŋwa/ with PR /wa/.
+	2. This PR is not documented in the *Hongmu chông'un yôkhun*.
+	3. Of a total of three occurrences, /ts`jaw/ appears in '雀舌兒' and
+'孔雀', and /ts`jwɔ/ in '雀兒'.
+	4. In the general illustrations of the *No Gôltae* and the *Pak t`ongsa*,
+this word is described as having many variant readings such as *yangping*
+/kjaw/ and /kjwɔ/, *shang* /kjaw/ and *ru* /kɔ/.
+	5. This PR is only in the *Hongmu chông'un yôkhun*.
+	6. The same as the previous note.

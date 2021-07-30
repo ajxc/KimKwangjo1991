@@ -1,0 +1,35 @@
+====250
+
+4.2.39 -jaŋ [jaŋ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+njaŋ	娘	-	-	-
+ljaŋ	良粱量糧凉梁	兩倆	諒亮凉量輛	-
+tsjaŋ	將漿	醬蔣獎	將醬	-
+ts`jaŋ	槍斨搶鶬	搶	-	-
+dzjaŋ	牆檣戕	-	匠	-
+sjaŋ	襄相湘廂箱	想@𩶓 鯗@	相	-
+zjaŋ	詳祥庠翔	象像橡	-	-
+tʂjaŋ	章璋樟獐障	長掌	障帳張漲	-
+	暲張彰			
+tʂ`jaŋ	昌菖倡娼	敞廠昶	唱倡暢悵	-
+dʐjaŋ	長腸坱常嘗	丈杖仗	仗杖長	-
+	償裳			
+ʂjaŋ	商傷觴湯	賞	餉向	-
+ʐjaŋ	-	上	尙上	-
+rjaŋ	穰禳攘瓤	壤穰攘	讓	-
+kjaŋ	薑疆姜江僵	襁講港	絳降	-
+k`jaŋ	羌腔	-	-	-
+ɡjaŋ	彊强	彊强	强	-
+ʔjaŋ	央殃鴦秧	怏	怏	-
+xjaŋ	香鄕肛	響嚮饗享	向嚮	-
+ʏjaŋ	降	項	巷	-
+jaŋ	陽暘楊揚瘍	養痒瀁癢	恙養樣	-
+	羊洋佯			
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+搶	shang	ts`jaŋ	-	ts`aŋ	-	-	tɕ`jaŋ³
+祥庠翔	ping	zjaŋ	-	dzjaŋ	-	-	ɕjaŋ²
+詳	ping	zjaŋ	-	dzjaŋ	zjaŋ	sjaŋ	ɕjaŋ²
+裳	ping	dʐjaŋ	ʐjaŋ	-	ʐjaŋ	ʂjaŋ	tʂ`aŋ²,ʂaŋ⁵
+强	qu	ɡjaŋ	-	k`jaŋ	-	-	tɕjaŋ⁴

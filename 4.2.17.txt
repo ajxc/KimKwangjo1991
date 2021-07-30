@@ -1,0 +1,26 @@
+====203
+
+4.2.17 -jaj [jaj]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+kjaj	皆偕階楷街	解	戒誡介界芥	-
+	稭	-	疥价屆懈解	
+k`jaj	揩	楷鍇	-	-
+ŋjaj	-	-	睚	-
+ʔjaj	-	矮	隘噎	-
+ʏjaj	諧骸鞋	解蟹	械解邂薤	-
+jaj	涯崖厓睚捱	-	-	-
+
+The note for this final says: "Some may follow /-aj/ in CPR. The
+'Mongol Rimes' follows [-jaj]." Most words gave PR /-jej/, which may be
+considered an earlier form of the Modern Mandarin /-je/. The initial /ŋ/ is
+not distinct in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+皆階	ping	kjaj	kjej	-	kjej	kjej	tɕje¹
+偕	ping	kjaj	kjej	-	-	-	tɕje¹,ɕje²
+楷稭	ping	kjaj	kjej	-	-	-	tɕje¹
+{}
+
+	1. Only one occurrence out of a total of eleven.
+	2. The words 涯 and 崖 are also listed under SR /ŋja/ with PR /ja/.

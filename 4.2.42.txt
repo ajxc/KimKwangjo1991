@@ -1,0 +1,36 @@
+====254
+
+4.2.42 -jɨm [im]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+njɨm	-	恁	賃	-
+ljɨm	林臨淋琳霖	凜廩	淋臨	-
+tsjɨm	-	-	浸	-
+ts`jɨm	侵	寢	-	-
+sjɨm	心	-	-	-
+zjɨm	尋蕈	-	-	-
+tʂjɨm	斟針鍼砧箴	枕	枕針	-
+tʂ`jɨm	參琛	瀋	闖	-
+dʐjɨm	沈	朕	-	-
+ʂjɨm	深	審沈嬸	深	-
+ʐjɨm	諶忱	甚葚	甚	-
+rjɨm	任壬	稔荏恁	妊任	-
+kjɨm	今衿襟金禁	錦	禁	-
+k`jɨm	欽衾	-	-	-
+ɡjɨm	琴禽檎擒芩	-	衿妗	-
+ŋjɨm	吟	-	-	-
+ʔjɨm	音陰	飮	蔭飮窨	-
+xjɨm	歆	-	-	-
+jɨm	淫	-	-	-
+
+====255
+
+	The ending /-m/ has PR variant /-n/. This is faithfully reflected in
+PR, CPR, LR and RR with an exception of 甚. The initial /ŋ-/ is not
+distinct in PR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+瀋	shang	tʂ`jɨm	ʂjɨn	-	ʂjɨn	ʂjɨn	ʂɨn³
+諶忱	ping	zjɨm	-	dʐjɨn	-	-	tʂ`ɨn²
+甚	qu	ʐjɨm	-	ʐɨm	:ʐjɨm	·ʂɨm	ʂɨn²〓⁴
+吟	ping	ŋjɨm	jɨn	-	jɨn	jɨn	jɨn²

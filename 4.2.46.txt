@@ -1,0 +1,40 @@
+====262
+
+4.2.46 -ɨjŋ [ɨjŋ]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+pɨjŋ	繃崩	-	迸	-
+p`ɨjŋ	烹	-	-	-
+bɨjŋ	彭膨鵬棚朋	-	-	-
+mɨjŋ	盲萌珉	猛	孟盟	-
+tɨjŋ	登燈	等	嶝瞪凳鐙	-
+dɨjŋ	騰藤謄疼	-	鄧	-
+nɨjŋ	能	-	-	-
+lɨjŋ	楞稜	冷	-	-
+tsɨjŋ	增曾憎	-	甑	-
+ts`ɨjŋ	-	-	蹭	-
+dzɨjŋ	層曾繒	-	贈	-
+sɨjŋ	僧	-	-	-
+tʂɨjŋ	爭箏睜	-	諍偵幀	-
+tʂ`ɨjŋ	錚撑瞠琤鐺	-	-	-
+dʐɨjŋ	橙	-	-	-
+ʂɨjŋ	生笙牲甥	省	生	-
+kɨjŋ	庚更耕羹粳	梗哽	更亘恒	-
+k`ɨjŋ	坑	肯	-	-
+xɨjŋ	亨	-	-	-
+
+====263
+
+	The final /-ɨjŋ/ must have disappeared in actual speech by the
+mid-fifteenth century. This final is replaced by /-ɨŋ/ or /-jɨŋ/ in PR,
+CPR, LR and RR without an exception.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+{}
+
+	1. This PR is based on the *Hongmu chông'un yôkhun*. The PR in the
+*Sasông t`onghae* accidentally fails to include this word and the next word
+朋.
+	2. The *Sasông t`onghae* specifies the usage of this CPR in the sense of
+'watch-hour' such as in '更漏'.
+	3. This word is also listed under SR *ping* /ʏjɨŋ/ with PR /ʏɨŋ/.

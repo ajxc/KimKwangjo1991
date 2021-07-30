@@ -1,0 +1,32 @@
+====230
+
+4.2.30 -jwen [yen]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+ljwen	攣	-	戀攣	-
+tsjwen	鐫	-	-	-
+ts`jwen	詮佺筌痊	-	-	-
+dzjwen	全泉	雋	-	-
+sjwen	宣	選	選	-
+zjwen	旋璇	-	旋鏇	-
+tʂjwen	專塼	轉	轉傳	-
+tʂ`jwen	穿川	喘舛	釧穿串	-
+dʐjwen	傳椽船	篆	傳饌撰	-
+rjwen	堧	軟	堧	-
+kjwen	鵑涓	卷捲	絹甄眷卷	-
+k`jwen	圈卷	太	券勸	-
+ɡjwen	權卷拳	圈	倦圈	-
+ŋjwen	-	阮遠	願愿遠瑗媛	-
+			援院	
+ʔjwen	淵娟鴛宛寃	宛琬婉苑	怨	-
+xjwen	暄喧萱	-	-	-
+ʏjwen	玄懸	鉉泫	眩炫玹衒	-
+jwen	捐鳶緣員圓沅	-	-	-
+	爰援媛園垣嫄			
+	轅猿元原源袁			
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+饌	qu	dʐjwen	-	dʐjwen	-	-	tʂwan⁴
+緣	ping	jwen	-	jen	jwen	jwen	jwan²
+
+

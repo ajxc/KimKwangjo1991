@@ -1,0 +1,21 @@
+====239
+
+4.2.34 -jan [jan]
+
+	Ping	Shang	Qu	Ru [-ʔ]
+kjan	姦艱閒間	簡柬揀	諫澗間磵閒鐧	-
+k`jan	慳	-	-	-
+ŋjan	顏	眼	雁	-
+ʔjan	殷	-	晏	-
+ʏjan	閑閒	限	莧	-
+
+	The note for this final in the *Sasông t`onghae* says that all the words
+with this final are read /-jen/ in CPR. The initial /ŋ/ is not distinct in
+PR and CPR.
+
+Words	Tone	SR	PR	CPR	LR	RR	Mo.M
+姦艱間揀	-	kjan	-	-	kjen	kjen	tɕjan¹〓³〓⁴
+慳	ping	k`jan	-	-	k`jen	k`jen	tɕ`jan¹
+顏眼雁	-	ŋjan	jan	jen	jen	jen	jan²〓³〓⁴
+閑限	-	ʏjan	-	ʏjen	ʏjen	xjen	ɕjan²〓⁴
+閒	ping	ʏjan	-	ʏjen	-	-	ɕjan²
